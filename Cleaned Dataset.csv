@@ -1,0 +1,999 @@
+Sr.,Date,Time,Pick up location,drop off location,Yango Economy,Yango Comfort,Yango Bike,Distance (km),Indrive Economy,Indrive Comfort,Indrive Bike,weather
+1,24-11-23,18:45:00,Anabias lawn E11/4,Al sahib Heights e/11,293,366,100,5.3,320,470,133,normal
+2,24-11-23,18:47:00,Luxury boys hostel E/11,F8 MARKAZ,320,451,130,10,361,528,151,normal
+3,24-11-23,18:50:00,Royal apartment e 11,air uni e/8,344,458,141,7.1,367,537,154,normal
+4,24-11-23,19:05:00,Obortunity consulting i/10,bahria uni e/8,371,497,157,7.7,386,564,163,normal
+5,24-11-23,19:07:00,Madina dry cleaner e/11,khayaban e iqbal f/6,246,340,90,8.1,373,546,154,normal
+6,24-11-23,19:10:00,Harveys guest house e/11,g9 markaz,418,510,185,8.7,418,608,177,normal
+7,24-11-23,19:16:00,Aliyan pet clinic e/11,NUML G 3,550,610,206,13,573,827,245,normal
+8,24-11-23,19:20:00,awan guest house e/11,ibn e sina metro g/9,390,402,167,8.8,421,613,178,normal
+9,24-11-23,19:22:00,Beds and breakfast e/11,g11,260,324,103,5.8,411,599,173,normal
+10,24-11-23,19:28:00,crown apaetment e/11,f8 markaz,411,491,166,6.4,480,530,200,normal
+11,25-11-23,19:35:00,BLACK ROCK CAfe e/11,g9 bus stop,380,446,166,8.5,408,594,172,normal
+12,26-11-23,21:42:00,awan guest house e/11,g9 bus stop,307,377,135,9.6,421,589,178,normal
+13,26-11-23,23:04:00,E 11/3 MARKAZ,HOT N SPICE e/11,199,222,98,4.3,262,290,80,normal
+14,26-11-23,15:16:00,Rawal Kings Cricket Club & Academy Islamabad,"Malang Jan Bannu Beef Pulao and Restaurant F-10 Markaz F 10/3 F-10, Islamabad",409,510,191,14.6,604,869,259,normal
+15,26-11-23,15:39:00,Rawal Kings Cricket Club & Academy Islamabad,rohi estates and builders i/14,265,360,114,8.6,415,603,175,normal
+16,26-11-23,15:47:00,Rawal Kings Cricket Club & Academy Islamabad,IJP metro bus station i/8,246,328,106,8.2,402,585,170,normal
+17,26-11-23,15:57:00,Rawal Kings Cricket Club & Academy Islamabad,chamman metro bus station G-9/4,337,433,158,10.4,471,682,200,normal
+18,26-11-23,16:11:00,Rawal Kings Cricket Club & Academy Islamabad,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",387,590,175,10.5,475,687,202,normal
+19,26-11-23,16:19:00,D Watson I-10 Markaz,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",343,428,157,10,459,665,195,normal
+20,26-11-23,16:25:00,BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",406,484,175,11.4,503,727,214,normal
+21,26-11-23,16:31:00,Malang Jan Bannu Beef Pulao G-9,chamman metro bus station G-9/4,179,201,58,1.8,200,300,80,normal
+22,26-11-23,16:37:00,Malang Jan Bannu Beef Pulao G-9,Faiz Ahmed Faiz Metro bus station H-8,439,44,84,4,266,393,109,normal
+23,26-11-23,16:59:00,Malang Jan Bannu Beef Pulao G-9,Air uiversity e/9,292,295,92,3.9,266,394,109,normal
+24,26-11-23,17:47:00,Malang Jan Bannu Beef Pulao G-9,"New Boys Hostel Street 18, I-14/3 I-14, Islamabad",652,659,241,14.9,610,882,262,normal
+25,26-11-23,17:51:00,"New Boys Hostel Street 18, I-14/3 I-14, Islamabad", malang jaan bannu beef pulao g/9,923,932,240,15.5,633,912,272,normal
+26,26-11-23,17:59:00,"New Boys Hostel Street 18, I-14/3 I-14, Islamabad",Ayub Market f7 markaz,771,778,250,19.3,753,1081,325,normal
+27,26-11-23,18:00:00,"New Boys Hostel Street 18, I-14/3 I-14, Islamabad",play ground G-11/3,525,530,190,11.8,560,809,240,normal
+28,26-11-23,18:03:00,"New Boys Hostel Street 18, I-14/3 I-14, Islamabad","Soft Swirl F-10 Markaz F 10/3 F-10, Islamabad",589,752,200,15.8,629,908,270,normal
+29,26-11-23,18:05:00,"New Boys Hostel Street 18, I-14/3 I-14, Islamabad",Riphah International University i-14,139,250,70,1.2,181,290,80,normal
+30,26-11-23,18:10:00,"New Boys Hostel Street 18, I-14/3 I-14, Islamabad","Bahria University Shangrilla Road, E-8/1 E 8/1 E-8, Islamabad",709,766,270,19.1,737,1057,318,normal
+31,26-11-23,18:13:00,"New Boys Hostel Street 18, I-14/3 I-14, Islamabad",Tehseen Plaza i/8,486,606,200,14,588,821,252,normal
+32,26-11-23,18:21:00,Tehseen Plaza i/8,"Rumi Hostel H-12, Islamabad",384,479,187,11.7,519,749,221,normal
+33,26-11-23,18:35:00,Tehseen Plaza i/8,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",426,531,232,13.4,566,815,242,normal
+34,27-11-23,0:50:00,Air University e/9,Sarai Silk Route Islamabad e/11,380,550,143,7,408,593,172,normal
+35,27-11-23,0:02:00,Air University e/9,The Grill burger f/7,318,321,110,3.8,269,397,111,normal
+36,27-11-23,0:11:00,Air University e/9,La Cucina e/11,301,337,101,6.2,320,380,160,normal
+37,27-11-23,0:18:00,Air University e/9,Black Rock Cafe e/11,370,411,136,6.6,361,527,151,normal
+38,27-11-23,0:23:00,Air University e/9,Kashmir Residency Boys Hostel e/11,400,445,142,6.9,370,541,156,normal
+39,27-11-23,0:29:00,Air University e/9,SK Residence e/11,360,530,174,7,373,545,180,normal
+40,27-11-23,0:34:00,Air University e/9,Coyote Den Travelers Hostel Islamabad e/11    ,346,413,139,6.8,367,536,154,normal
+41,27-11-23,0:38:00,Air University e/9,The Jungle Lounge e/11,306,408,133,6.4,355,518,149,normal
+42,27-11-23,0:45:00,Air University e/9,Hill View Residency e/11,390,459,126,7.7,415,602,175,normal
+43,27-11-23,12:56:00,Air University e/9,Us guest house islamabad E11,400,570,150,7.8,415,602,175,normal
+44,27-11-23,1:04:00,Air University e/9,Metro Consulting Grid Pvt Ltd. e/11,390,580,146,7.5,418,606,177,normal
+45,27-11-23,1:09:00,Air University e/9,Lazzat spa Islamabad e/11,367,530,142,7.1,373,545,157,normal
+46,27-11-23,1:11:00,Air University e/9,Jamia Masjid Qurtubah e/11,458,475,138,6.6,361,527,151,normal
+47,27-11-23,1:14:00,Air University e/9,AJWA RANT A CAR e/11,340,500,148,6.7,361,528,151,normal
+48,27-11-23,1:15:00,Jamia Masjid Qurtubah e/11,"Autism Resource Centre, Islamabad e/11",167,277,70,0.5,178,290,80,normal
+49,27-11-23,1:18:00,Jamia Masjid Qurtubah e/11,The City School E-11 Campus,162,277,65,0.7,178,290,80,normal
+50,27-11-23,1:22:00,Jamia Masjid Qurtubah e/11,MARGALLA Hills Residency Islamabad E-11/3,157,275,65,0.55,178,290,80,normal
+51,27-11-23,1:25:00,Jamia Masjid Qurtubah e/11,Apple Group of Schools Islamabad e/11,162,270,63,0.55,178,290,80,normal
+52,27-11-23,1:30:00,Jamia Masjid Qurtubah e/11,Flexi dreams hospitality services Islamabad e/11,177,270,70,0.8,181,290,80,normal
+53,27-11-23,1:34:00,Jamia Masjid Qurtubah e/11,IBH BOYS HOSTEL e/11,239,277,65,0.75,178,290,80,normal
+54,27-11-23,1:38:00,Jamia Masjid Qurtubah e/11,Premier cottage Inn e/11,155,245,67,0.85,178,290,80,normal
+55,27-11-23,1:40:00,Jamia Masjid Qurtubah e/11,Unicres Pvt Ltd e/11,145,255,70,0.9,178,290,80,normal
+56,27-11-23,1:45:00,Jamia Masjid Qurtubah e/11,Backpackers Hostel Islamabad e/11,190,290,70,1.9,203,305,81,normal
+57,27-11-23,1:55:00,Jamia Masjid Qurtubah e/11,Luxury Apartment Hotel & Guest House e/11,167,287,70,0.25,178,290,80,normal
+58,27-11-23,1:57:00,Jamia Masjid Qurtubah e/11,Canadian Inn Hotel Islamabad e/11,206,290,75,1.2,206,308,83,normal
+59,27-11-23,2:00:00,Jamia Masjid Qurtubah e/11,Family lodge e/11,180,270,70,1.6,193,291,80,normal
+60,27-11-23,2:03:00,PAF HOSPITAL e 9,Fitness Zone by The NAK e/11,310,455,125,6.6,317,464,132,normal
+61,27-11-23,2:06:00,PAF HOSPITAL e 9,Arif Javed Rao Park e/11,306,447,116,6.4,310,455,129,normal
+62,27-11-23,2:09:00,PAF HOSPITAL e 9,Najeeb Pharmacy E-11/3,287,420,115,6.1,294,433,122,normal
+63,27-11-23,2:12:00,PAF HOSPITAL e 9,GLLC Languages Institute Islamabad e 11,280,424,115,6.2,298,437,123,normal
+64,27-11-23,2:15:00,PAF HOSPITAL e 9,BABA JEE GUEST HOUSE e 11,280,435,109,5.9,291,428,121,normal
+65,27-11-23,2:19:00,PAF HOSPITAL e 9,INDUS HERITAGE CLUB e/11,290,438,106,6.1,301,441,125,normal
+66,27-11-23,2:25:00,PAF HOSPITAL e 9,Mudan Residence guest house e/11,278,415,110,6,291,428,121,normal
+67,27-11-23,2:30:00,PAF HOSPITAL e 9,Sargodhian Spirit Trust (SST) e/11,267,405,109,5.9,288,424,119,normal
+68,27-11-23,2:33:00,PAF HOSPITAL e 9,Beaconhouse E11 Campus,289,432,115,5.7,301,441,125,normal
+69,27-11-23,2:35:00,PAF HOSPITAL e 9,"IIUI School, E-11 Campus",276,400,110,5.7,282,415,116,normal
+70,27-11-23,7:34:00,Tehseen Plaza i/8,BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,194,242,71,3.1,241,358,98,normal
+71,27-11-23,7:37:00,Tehseen Plaza i/9,play ground G-11/3,339,423,155,10.6,484,700,206,normal
+72,27-11-23,7:40:00,D Watson I-10 Markaz,play ground G-11/3,308,385,140,10.2,509,737,217,normal
+73,27-11-23,7:44:00,D Watson I-10 Markaz,BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,157,196,57,1.4,187,290,80,normal
+74,27-11-23,7:52:00,"Rumi Hostel H-12, Islamabad","Soft Swirl F-10 Markaz F 10/3 F-10, Islamabad",566,580,212,11.4,509,736,217,normal
+75,27-11-23,7:59:00,"Rumi Hostel H-12, Islamabad","Tehzeeb Bakers I-8 Markaz I 8 Markaz I-8, Islamabad",521,527,208,10.8,490,711,209,normal
+76,27-11-23,8:10:00,"Rumi Hostel H-12, Islamabad",D Watson I-10 Markaz,285,356,154,6.5,351,515,147,normal
+77,27-11-23,8:13:00,"Rumi Hostel H-12, Islamabad",Bismillah Market I-10 markaz,298,434,127,6.9,364,532,153,normal
+78,27-11-23,8:15:00,"Soft Swirl F-10 Markaz F 10/3 F-10, Islamabad",Rawal Kings Cricket,431,537,205,12.5,538,777,230,normal
+79,27-11-23,8:19:00,"Soft Swirl F-10 Markaz F 10/3 F-10, Islamabad",Tehzeeb Bakers G-7/3 jinnah avenue,228,258,93,8,358,523,150,normal
+80,27-11-23,8:21:00,"Soft Swirl F-10 Markaz F 10/3 F-10, Islamabad",D Watson I-10 Markaz,185,231,71,11.4,247,366,101,normal
+81,27-11-23,11:12:00,Soft Swirl I-8 markaz,Bismillah Market I-10 markaz,260,324,128,6.2,215,322,87,normal
+82,27-11-23,11:15:00,Soft Swirl i-8 markez,"Butt Lodges Guest House Street 95, I-8/4 I 8/4 I-8, Islamabad",143,178,56,1.4,187,290,80,normal
+83,27-11-23,11:18:00,Bismillah Market I-9/4 markaz,"Rumi Hostel H-12, Islamabad",369,460,164,11.8,519,749,221,normal
+84,27-11-23,11:23:00,Bismillah Market I-9/4 markaz,new boys hostel,438,546,207,14.2,588,848,252,normal
+85,27-11-23,11:26:00,Bismillah Market I-9/4 markaz,IJP metro bus station,157,196,56,1.9,200,299,80,normal
+86,27-11-23,11:28:00,Bismillah Market I-9/4 markaz,Shifa International Hospital Gate 5,193,242,73,3.3,244,362,100,normal
+87,27-11-23,11:32:00,Bismillah Market I-9/4 markaz,BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,167,209,59,2.2,203,304,81,normal
+88,27-11-23,11:37:00,"Butt Lodges Guest House Street 95, I-8/4 I 8/4 I-8, Islamabad",Shifa International Hospital Gate 5,196,244,75,3.7,260,385,107,normal
+89,27-11-23,11:39:00,"Butt Lodges Guest House Street 95, I-8/4 I 8/4 I-8, Islamabad",BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,225,331,89,4.5,294,434,122,normal
+90,27-11-23,11:41:00,"Butt Lodges Guest House Street 95, I-8/4 I 8/4 I-8, Islamabad",cheezious i-8,148,185,56,1.5,190,290,80,normal
+91,27-11-23,11:43:00,"Butt Lodges Guest House Street 95, I-8/4 I 8/4 I-8, Islamabad","Layers Bakeshop - I-8 Markaz I-8 Markaz I 8 Markaz I-8, Islamabad",148,185,56,1.4,187,290,80,normal
+92,27-11-23,11:46:00,"Butt Lodges Guest House Street 95, I-8/4 I 8/4 I-8, Islamabad","Tehzeeb Bakers I-8 Markaz I 8 Markaz I-8, Islamabad",145,181,56,1.5,190,290,80,normal
+93,27-11-23,11:49:00,"Butt Lodges Guest House Street 95, I-8/4 I 8/4 I-8, Islamabad",h-8 graveyard,227,283,91,4.6,323,473,135,normal
+94,27-11-23,11:55:00,Rawal Kings Cricket i/11,cheezious i-8,337,524,155,8.3,405,589,171,normal
+95,27-11-23,12:01:00,Air University e/9,The Grill burger f/7,318,321,110,3.8,269,397,111,normal
+96,27-11-23,12:01:00,Air University e/9,La Cucina e/11,301,337,101,6.2,320,380,160,normal
+97,27-11-23,12:18:00,Air University e/9,Black Rock Cafe e/11,370,411,136,6.6,361,527,151,normal
+98,27-11-23,12:23:00,Air University e/9,Kashmir Residency Boys Hostel e/11,400,445,142,6.9,370,541,156,normal
+99,27-11-23,12:29:00,Air University e/9,SK Residence e/11,360,530,174,7,373,545,180,normal
+100,27-11-23,12:34:00,Air University e/9,Coyote Den Travelers Hostel Islamabad e/11,346,413,139,6.8,367,536,154,normal
+101,27-11-23,12:38:00,Air University e/9,The Jungle Lounge e/11,306,408,133,6.4,355,518,149,normal
+102,27-11-23,12:45:00,Air University e/9,Hill View Residency e/11,390,459,126,7.7,415,602,175,normal
+103,27-11-23,12:50:00,Air University e/9,Sarai Silk Route Islamabad e/11,380,550,143,7,408,593,172,normal
+104,27-11-23,12:56:00,Air University e/9,Us guest house islamabad E11 e/11,400,570,150,7.8,415,602,175,normal
+105,27-11-23,13:03:00,Air University e/9,BR 9 -Best Sheesha Cafe in Islamabad e/11,340,520,188,6.3,373,545,157,normal
+106,27-11-23,13:04:00,Air University e/9,Metro Consulting Grid Pvt Ltd. e/11,390,580,146,7.5,418,606,177,normal
+107,27-11-23,13:09:00,Air University e/9,Lazzat spa Islamabad e/11,367,530,142,7.1,373,545,157,normal
+108,27-11-23,13:13:00,Air University e/9,Jamia Masjid Qurtubah e/11,458,475,138,6.6,361,527,151,normal
+109,27-11-23,13:14:00,Air University e/9,AJWA RANT A CAR e/11,340,500,148,6.7,361,528,151,normal
+110,27-11-23,13:15:00,Jamia Masjid Qurtubah e/11,"Autism Resource Centre, Islamabad e/11",167,277,70,0.5,178,290,80,normal
+111,27-11-23,13:18:00,Jamia Masjid Qurtubah e/11,The City School E-11 Campus e/11,162,277,65,0.7,178,290,80,normal
+112,27-11-23,13:22:00,Jamia Masjid Qurtubah e/11,MARGALLA Hills Residency Islamabad E-11/3,157,275,65,0.55,178,290,80,normal
+113,27-11-23,13:25:00,Jamia Masjid Qurtubah e/11,Apple Group of Schools Islamabad e/11,162,270,63,0.55,178,290,80,normal
+114,27-11-23,13:30:00,Jamia Masjid Qurtubah e/11,Flexi dreams hospitality services Islamabad e/11,177,270,70,0.8,181,290,80,normal
+115,27-11-23,13:34:00,Jamia Masjid Qurtubah e/11,IBH BOYS HOSTEL e/11,239,277,65,0.75,178,290,80,normal
+116,27-11-23,13:38:00,Jamia Masjid Qurtubah e/11,Premier cottage Inn e/11,155,245,67,0.85,178,290,80,normal
+117,27-11-23,13:40:00,Jamia Masjid Qurtubah e/11,Unicres Pvt Ltd e/11,145,255,70,0.9,178,290,80,normal
+118,27-11-23,13:45:00,Jamia Masjid Qurtubah e/11,Backpackers Hostel Islamabad e/11,190,290,70,1.9,203,305,81,normal
+119,27-11-23,13:55:00,Jamia Masjid Qurtubah e/11,Luxury Apartment Hotel & Guest House e/11,167,287,70,0.25,178,290,80,normal
+120,27-11-23,13:57:00,Jamia Masjid Qurtubah e/11,Canadian Inn Hotel Islamabad e/11,206,290,75,1.2,206,308,83,normal
+121,27-11-23,14:00:00,Jamia Masjid Qurtubah e/11,Family lodge e/11,180,270,70,1.6,193,291,80,normal
+122,27-11-23,14:03:00,PAF HOSPITAL e 9,Fitness Zone by The NAK e/11,310,455,125,6.6,317,464,132,normal
+123,27-11-23,14:06:00,PAF HOSPITAL e 9,Arif Javed Rao Park e/11,306,447,116,6.4,310,455,129,normal
+124,27-11-23,14:09:00,PAF HOSPITAL e 9,Najeeb Pharmacy E-11/3,287,420,115,6.1,294,433,122,normal
+125,27-11-23,14:12:00,PAF HOSPITAL e 9,GLLC Languages Institute Islamabad e 11,280,424,115,6.2,298,437,123,normal
+126,27-11-23,14:15:00,PAF HOSPITAL e 9,BABA JEE GUEST HOUSE e 11,280,435,109,5.9,291,428,121,normal
+127,27-11-23,14:19:00,PAF HOSPITAL e 9,INDUS HERITAGE CLUB e 11,290,438,106,6.1,301,441,125,normal
+128,27-11-23,14:25:00,PAF HOSPITAL e 9,Mudan Residence guest house  e/11,278,415,110,6,291,428,121,normal
+129,27-11-23,14:30:00,PAF HOSPITAL e 9,Sargodhian Spirit Trust (SST) e/11,267,405,109,5.9,288,424,119,normal
+130,27-11-23,14:33:00,PAF HOSPITAL e 9,Beaconhouse E11 Campus  ,289,432,115,5.7,301,441,125,normal
+131,27-11-23,14:35:00,PAF HOSPITAL e 9,"IIUI School, E-11 Campus",276,400,110,5.7,282,415,116,normal
+132,27-11-23,14:37:00,PAF HOSPITAL e 9,ARJ Events e/11,299,430,114,6.1,301,441,125,normal
+133,27-11-23,14:40:00,PAF HOSPITAL e 9,BASES INCLUSIVE MONTESSORI e/11,301,456,120,6.8,323,473,135,normal
+134,27-11-23,14:44:00,PAF HOSPITAL e 9,Kamran auto bike shop e/11,280,413,108,5.7,291,428,121,normal
+135,27-11-23,14:49:00,PAF HOSPITAL e 9,Step Inn Guest House Islamabad e/11,260,390,100,5.5,278,406,114,normal
+136,27-11-23,14:55:00,PAF HOSPITAL e 9,Dream Inn Guest House islamabad e/11,280,420,110,6,294,433,122,normal
+137,27-11-23,14:59:00,PAF HOSPITAL e 9,Alfalah Manzil Trust e/11,270,395,100,5.9,285,419,118,normal
+138,27-11-23,15:03:00,PAF HOSPITAL e 9,Aura Grande Enclave e/11,256,377,99,5.1,263,388,108,normal
+139,27-11-23,15:09:00,PAF HOSPITAL e 9,LHR Milk Shake e/11,287,413,113,7.1,298,437,123,normal
+140,27-11-23,15:13:00,PAF HOSPITAL e 9,We Play Entertainment Center e/11,276,407,103,5.5,285,419,118,normal
+141,27-11-23,15:15:00,PAF HOSPITAL e 9,AL VEER GUEST HOUSE & APARTMENTS e/11,320,472,126,7.6,332,487,139,normal
+142,27-11-23,16:44:00,National Defence University e 9,AHQ Officers' Mess e/9,199,249,104,2.4,225,335,91,normal
+143,27-11-23,16:48:00,National Defence University e 9,Shaheen Foundation e/9,196,245,103,2,209,313,84,normal
+144,27-11-23,16:51:00,National Defence University e 9,Fazaia Teachers Training Institute e/9,203,253,103,1.8,209,313,84,normal
+145,27-11-23,16:53:00,National Defence University e 9,PES Secretariat e/9,187,267,76,1.5,200,300,80,normal
+146,27-11-23,16:56:00,National Defence University e 9,Pakistan Air Force Mag Sec e/9,187,276,70,1.7,203,304,81,normal
+147,27-11-23,16:58:00,National Defence University e 9,E-9 Cricket Ground,191,239,101,1.6,203,304,81,normal
+148,27-11-23,17:00:00,National Defence University e 9,PAF Finishing School e/9,198,248,75,1.6,203,304,81,normal
+149,27-11-23,17:01:00,National Defence University e 9,Masjid e Quba e/9,198,248,75,1.6,203,304,81,normal
+150,27-11-23,17:03:00,National Defence University e 9,Sports Complexe e/9,199,258,71,2,197,296,80,normal
+151,27-11-23,17:04:00,National Defence University e 9,PAF Main Mosque e/9,171,223,99,1,184,290,80,normal
+152,27-11-23,17:06:00,National Defence University e 9,Anum Book & Stationers e/9,176,276,76,1.3,184,290,80,normal
+153,27-11-23,17:09:00,National Defence University e 9,Fazaia Inter College Islamabad e/9,219,313,70,1.3,184,290,80,normal
+154,27-11-23,17:10:00,National Defence University e 9,PAF Wards Boys Hostel e/9,224,319,71,1.4,200,300,80,normal
+155,27-11-23,17:12:00,National Defence University e 9,Air Headquarters Reception e/9,203,293,68,1.2,181,290,80,normal
+156,27-11-23,17:14:00,National Defence University e 9,Middlecoat Park e/9,185,231,68,0.55,178,290,80,normal
+157,27-11-23,17:16:00,National Defence University e 9,Pakistan Gospel Assemblies Church e/11,415,495,174,6.8,367,538,154,normal
+158,27-11-23,17:18:00,National Defence University e 9,CSD (Canteen Store Department e/10,188,300,70,2.2,209,313,84,normal
+159,27-11-23,17:20:00,National Defence University e 9,Pakistan Gate e/10,212,350,80,3.3,253,376,104,normal
+160,27-11-23,17:25:00,Faisal Mosque e/8,Margalla Greens Golf Club e/8,430,380,106,3.7,310,458,129,normal
+161,27-11-23,17:26:00,Faisal Mosque e/8,National Defence University (NDU) e/9,451,390,122,4.2,298,440,123,normal
+162,27-11-23,17:28:00,Faisal Mosque e/8,PNS Hafeez - Naval Hospital e/8,200,330,92,2.5,266,394,109,normal
+163,27-11-23,17:30:00,Faisal Mosque e/8,Shelton Guest House f/8,176,289,81,2.4,215,322,87,normal
+164,27-11-23,17:33:00,Faisal Mosque e/8,PNS Zafar e/8,260,390,100,2.7,279,412,115,normal
+165,27-11-23,17:36:00,Faisal Mosque e/8,PAF Complex Islamabad - AHQ e/9,432,400,118,4.5,301,444,125,normal
+166,27-11-23,17:37:00,Faisal Mosque e/8,Faisal Battery Shop e/7,190,290,70,1.5,203,304,81,normal
+167,27-11-23,17:38:00,Faisal Mosque e/8,CSD - Canteen Stores Department e/10,265,390,100,2.5,272,404,112,normal
+168,27-11-23,17:40:00,Faisal Mosque e/8,PN Football Ground e/8,276,400,100,2.9,282,417,116,normal
+169,27-11-23,17:40:00,Faisal Mosque e/8,Navy Mess Guestrooms e/8,396,380,107,2.9,282,417,116,normal
+170,27-11-23,17:45:00,Faisal Mosque e/8,PN Central Mess e/8,440,457,103,2.8,279,412,115,normal
+171,27-11-23,17:49:00,Faisal Mosque e/8,Riding Club E-8,595,574,125,3.4,301,444,125,normal
+172,27-11-23,17:52:00,Faisal Mosque e/8,PNS Zafar Helipad e/8,270,400,100,3,288,426,119,normal
+173,27-11-23,17:54:00,Faisal Mosque e/8,Islamabad Fire Station e/8,265,404,106,2.8,282,417,116,normal
+174,27-11-23,17:56:00,Faisal Mosque e/8,M.E.S Mosque e/8,290,430,109,3.1,304,449,126,normal
+175,27-11-23,17:58:00,Faisal Mosque e/8,Bahria Park e/8,507,540,118,3.4,301,444,125,normal
+176,27-11-23,18:00:00,Faisal Mosque e/8,VCNS House e/8,290,430,109,3.5,304,448,126,normal
+177,27-11-23,18:04:00,Faisal Mosque e/8,ARC Officer’s Mess (ARCOM) e/8,505,498,118,3.7,304,449,126,normal
+178,27-11-23,18:05:00,Faisal Mosque e/8,Naval Park e/8,421,471,98,2.2,272,404,112,normal
+179,27-11-23,18:07:00,Faisal Mosque e/8,Margalla Park e/8,393,290,90,2.9,228,340,93,normal
+180,27-11-23,18:10:00,Faisal Mosque e/8,Special Children Bahria College Islamabad e/8,260,400,100,2.7,279,412,115,normal
+181,27-11-23,18:14:00,Faisal Mosque e/8,"Post Office, E-8, Islamabad",271,399,100,2.8,282,417,116,normal
+182,27-11-23,12:38:00,Sir Syed CASE Institute of Technology b/17,Farhan motors and properties Block A Sector B-17,132,165,56,0.35,299,80,178,normal
+183,27-11-23,14:58:00,Sir Syed CASE Institute of Technology b/18,Jamia muhammadi masjid b-17 Block B sector B-17,160,200,189,2.8,344,94,231,normal
+184,27-11-23,14:39:00,Sir Syed CASE Institute of Technology b/19,Silver bell marketing Block D sector B-17,197,246,150,2.1,313,83,209,normal
+185,27-11-23,15:03:00,Sir Syed CASE Institute of Technology b/20,Hujra restaurant Block D sector B-17,202,253,170,2.8,344,94,231,normal
+186,28-11-23,7:46:00,Rawal Kings Cricket i/11,Air uiversity  e/8,457,600,223,13.7,576,830,247,normal
+187,28-11-23,7:48:00,Islamabad railway h/9,centaurus mall f/8,295,369,133,7.7,386,562,163,normal
+188,28-11-23,7:53:00,Islamabad railway h/9,"Butt Lodges Guest House Street 95, I-8/4 I 8/4 I-8, Islamabad",227,283,90,4.1,272,403,112,normal
+189,28-11-23,7:55:00,Islamabad railway h/9,IJP metro bus station i/8,202,252,103,3.5,253,375,104,normal
+190,28-11-23,8:49:00,Islamabad railway h/9,pims metro station g/8,269,336,124,7.7,386,562,163,normal
+191,28-11-23,8:50:00,Islamabad railway h/9,new boys hostel h/8,500,649,245,15.4,629,906,270,normal
+192,28-11-23,8:52:00,Islamabad railway h/9,Faiz Ahmed Faiz Metro bus station H-8,174,217,63,3,247,366,101,normal
+193,28-11-23,16:05:00,Margalla Park f/8,Sungas LPG Marketing Company e/7,179,224,66,1.3,184,290,80,normal
+194,28-11-23,16:54:00,Margalla Park f/8,Customs Mess E7,178,223,66,1.5,190,290,80,normal
+195,28-11-23,16:56:00,Margalla Park f/8,Academy For Educational Development e/7,173,216,65,1.4,187,290,80,normal
+196,28-11-23,16:59:00,Margalla Park f/8,"The Allergy & Asthma Institute, Pakistan e/7",176,220,66,1.4,187,290,80,normal
+197,28-11-23,17:00:00,Margalla Park f/8,Rhodium Boutique Hotel Islamabad e.7,181,227,66,1.5,187,290,80,normal
+198,28-11-23,17:04:00,Margalla Park f/8,Embassy of Bosnia and Herzegovina e/7,180,225,66,1.6,193,290,80,normal
+199,28-11-23,17:09:00,Margalla Park f/8,Nishtar & Zafar Lawyers and Corporate Counsels e/7,179,223,66,1.5,190,290,80,normal
+200,28-11-23,17:11:00,Margalla Park f/8,"Ahmed Ch,Capital Furniture e/7",187,234,67,1.7,197,295,80,normal
+201,28-11-23,17:13:00,Margalla Park f/8,Dr. Rana's Pet Care Center e/7,185,276,78,1.9,203,304,81,normal
+202,28-11-23,17:17:00,Margalla Park f/8,E-7 Park,188,235,67,2.3,215,322,87,normal
+203,28-11-23,17:18:00,Margalla Park f/8,Silk roads Pakistan tours e/7,181,227,66,2.3,215,322,87,normal
+204,28-11-23,17:20:00,Margalla Park f/8,Cycling Track E-7,181,227,66,2.5,215,321,87,normal
+205,28-11-23,17:22:00,Margalla Park f/8,Gulistan-e-Fatima Park e/7,180,226,65,2.4,219,326,88,normal
+206,28-11-23,17:24:00,Margalla Park f/8,Hillside Residence by Paramount Hospitality e/7,214,267,80,2.9,234,349,95,normal
+207,28-11-23,17:26:00,Margalla Park f/8,Jamia Faridia e/7,208,260,75,3.1,241,357,98,normal
+208,28-11-23,17:27:00,ARC Officer’s Mess (ARCOM) e/8,Margalla Greens Golf Club e/7,223,294,86,0.7,178,290,80,normal
+209,28-11-23,17:29:00,ARC Officer’s Mess (ARCOM) e/8,Pizza Hut e/9,203,268,83,0.75,184,290,80,normal
+210,28-11-23,17:31:00,ARC Officer’s Mess (ARCOM) e/8,MGGC Club House e/8,226,277,70,0.85,187,290,80,normal
+211,28-11-23,17:34:00,ARC Officer’s Mess (ARCOM) e/8,Riding Club E-8,222,275,70,0.65,178,290,80,normal
+212,28-11-23,17:36:00,ARC Officer’s Mess (ARCOM) e/8,Trail 2 Alternate Starting Point e/7,270,400,100,5.4,313,461,130,normal
+213,28-11-23,17:38:00,ARC Officer’s Mess (ARCOM) e/8,Dino Park e/7,287,358,143,4.7,291,429,121,normal
+214,28-11-23,17:40:00,ARC Officer’s Mess (ARCOM) e/8,Daman-e-Koh e/6,377,442,169,8.5,411,600,174,normal
+215,28-11-23,17:43:00,ARC Officer’s Mess (ARCOM) e/8,Jungle Spot e/7,306,388,121,5,301,443,125,normal
+216,28-11-23,17:44:00,ARC Officer’s Mess (ARCOM) e/8,Children's Park and Play Ground e/9,282,352,120,1.3,301,443,125,normal
+217,28-11-23,17:45:00,ARC Officer’s Mess (ARCOM) e/8,Airmen Mess e/9,191,239,68,1.8,206,308,83,normal
+218,28-11-23,17:47:00,ARC Officer’s Mess (ARCOM) e/8,SNCO's Mess e/9,196,245,70,1.6,193,291,80,normal
+219,28-11-23,17:50:00,ARC Officer’s Mess (ARCOM) e/8,B.B.Q Tonight g/6,200,297,76,2,206,308,83,normal
+220,28-11-23,18:00:00,ARC Officer’s Mess (ARCOM) e/8,Mosque Car Park e/9,176,276,70,1.5,190,290,80,normal
+221,28-11-23,18:03:00,ARC Officer’s Mess (ARCOM) e/8,PAF Water Filtration Plant e/9,180,279,75,1.6,193,291,80,normal
+222,28-11-23,18:06:00,ARC Officer’s Mess (ARCOM) e/8,DCI Riding School e/10,257,321,133,6.3,342,501,143,normal
+223,28-11-23,18:10:00,Air Headquarters Reception e/9,Kulsum Sugarcane Juice e/11,376,567,154,7.3,399,582,168,normal
+224,28-11-23,18:14:00,Air Headquarters Reception e/9,BASES INCLUSIVE MONTESSORI e/11,354,415,157,7.5,405,591,171,normal
+225,28-11-23,18:17:00,Air Headquarters Reception e/9,Pak Voter e/11,316,384,129,6.9,383,560,161,normal
+226,28-11-23,18:19:00,Air Headquarters Reception e/9,INDUS HERITAGE CLUB e/11,361,427,132,6.8,380,556,160,normal
+227,28-11-23,18:21:00,Air Headquarters Reception e/9,Mudan Residence guest house e/11,369,419,140,6.7,370,543,156,normal
+228,28-11-23,18:23:00,Air Headquarters Reception e/9,Delano Residence e/11,370,540,150,6.5,380,557,160,normal
+229,28-11-23,18:26:00,Air Headquarters Reception e/9,Executive Residency e/11,464,436,148,7.3,389,570,164,normal
+230,28-11-23,18:30:00,Air Headquarters Reception e/9,SK Residence e/11,400,580,165,8,411,601,174,normal
+231,28-11-23,18:33:00,Air Headquarters Reception e/9,Aura Grande Event Complex e/11,291,492,116,5.8,342,502,143,normal
+232,28-11-23,18:36:00,Air Headquarters Reception e/9,Monal Marquee e/11,301,404,117,5.5,332,488,139,normal
+233,28-11-23,18:39:00,khayaban e iqbal f/6,Backpackers Hostel Islamabad e/11,324,391,136,6.4,326,478,136,normal
+234,28-11-23,18:42:00,khayaban e iqbal f/6,AL VEER GUEST HOUSE & APARTMENTS e/11,345,523,142,8.4,367,537,154,normal
+235,28-11-23,18:45:00,khayaban e iqbal f/6,Arif Javed Rao Park e/11,321,476,132,7.1,339,496,142,normal
+236,28-11-23,18:47:00,khayaban e iqbal f/6,F.E.C.H.S. e/11,363,423,155,7.8,364,532,153,normal
+237,28-11-23,18:48:00,khayaban e iqbal f/6,Mishi Maan Beauty Parlour e/11,370,433,159,7.9,373,546,157,normal
+238,28-11-23,18:50:00,khayaban e iqbal f/6,Ahang Kada e/11,371,433,158,8.9,377,551,158,normal
+239,28-11-23,18:53:00,khayaban e iqbal f/6,Harveys Guest House e/11,388,459,170,9,377,551,158,normal
+240,28-11-23,18:56:00,khayaban e iqbal f/6,Peridot Cottage ,361,532,145,8.8,373,546,157,normal
+241,28-11-23,19:00:00,khayaban e iqbal f/6,Home Inn Guesthouse E11/2,372,436,160,7.7,361,528,151,normal
+242,28-11-23,19:03:00,khayaban e iqbal f/6,Hyatt Aryana Guest House Islamabad e/11,359,419,152,7.5,355,519,149,normal
+243,29-11-23,13:59:00,Riphah International University i-14,IJP metro bus station i/8,633,639,202,14.9,614,885,263,normal
+244,29-11-23,14:08:00,Riphah International University i-14,new boys hostel  e/8,225,334,61,1.6,193,291,80,normal
+245,29-11-23,14:06:00,Riphah International University i-14,cheezious i-8,722,823,235,15,617,890,265,normal
+246,29-11-23,14:09:00,Riphah International University i-14,air uiversity  e/8,662,766,275,19,746,1071,322,normal
+247,29-11-23,14:11:00,Riphah International University i-14,Rawal Kings Cricket i/11,365,387,128,6.7,355,520,149,normal
+248,29-11-23,15:58:00,Margalla Filling Station Total PARCO Petrol Pump b/17,howdy f-7 markaz,804,1002,418,25.5,1346,409,942,normal
+249,29-11-23,15:15:00,Margalla Filling Station Total PARCO Petrol Pump b/17,Air University 9th avenue e/8,689,859,870,24.9,1327,403,930,normal
+250,29-11-23,15:23:00,Margalla Filling Station Total PARCO Petrol Pump b/17,Bait-ul-hareem hostel F8/2,701,889,900,25.3,1346,409,942,normal
+251,29-11-23,15:29:00,Margalla Filling Station Total PARCO Petrol Pump b/17,Lake view park murree road,952,1868,1000,38.1,1957,601,1375,normal
+252,29-11-23,15:37:00,Margalla Filling Station Total PARCO Petrol Pump b/17,Chather park murree road,893,1113,980,34.3,1747,535,1227,normal
+253,29-11-23,15:39:00,Margalla Filling Station Total PARCO Petrol Pump b/17,Precise engineer’s pvt Block B sector B-17,160,200,170,2.8,344,94,231,normal
+254,29-11-23,15:41:00,Margalla Filling Station Total PARCO Petrol Pump b/17,Hujra restaurant Block D sector B-17,160,200,169,2.8,344,94,231,normal
+255,29-11-23,16:11:00,itwar bazar h/9,Al sahib Heights e/11,276,421,102,4.8,294,434,122,normal
+256,29-11-23,16:14:00,itwar bazar h/9,F8 MARKAZ,331,396,135,8.1,399,581,168,normal
+257,29-11-23,16:18:00,itwar bazar h/9,air uni e/8,311,380,127,7.6,383,558,161,normal
+258,29-11-23,16:22:00,itwar bazar h/9,bahria uni e/8,321,389,131,7.9,392,572,165,normal
+259,29-11-23,16:27:00,itwar bazar h/9,khayaban e iqbal f/6,421,500,190,11,629,904,270,normal
+260,29-11-23,16:30:00,itwar bazar h/9,g9 markaz,247,308,95,3.6,288,424,119,normal
+261,29-11-23,16:32:00,itwar bazar h/9,NUML G 3,223,279,82,7.6,383,558,161,normal
+262,29-11-23,16:34:00,itwar bazar h/9,ibn e sina metro g/9,220,275,84,5.8,326,477,136,normal
+263,29-11-23,16:36:00,itwar bazar h/9,g11,369,432,161,1.4,187,290,80,normal
+264,29-11-23,16:38:00,itwar bazar h/9,f8 markaz,330,396,134,8.1,399,581,168,normal
+265,29-11-23,16:40:00,itwar bazar h/9,g9 bus stop,239,299,91,4.5,285,420,118,normal
+266,29-11-23,16:43:00,itwar bazar h/9,g9 /1,267,355,114,3.5,279,411,115,normal
+267,29-11-23,16:43:00,itwar bazar h/9,HOT N SPICE e/11,900,960,321,22,983,1404,427,normal
+268,29-11-23,16:50:00,itwar bazar h/9,The Grill burger e/11,328,394,136,13,554,797,237,normal
+269,29-11-23,16:53:00,itwar bazar h/9,E7,368,429,161,13,550,792,235,normal
+270,29-11-23,16:56:00,itwar bazar h/9,Black Rock Cafe e/11,456,532,199,6.1,336,492,140,normal
+271,29-11-23,17:00:00,itwar bazar h/9,Kashmir Residency Boys Hostel e/11,467,542,202,6.4,345,506,144,normal
+272,29-11-23,17:03:00,itwar bazar h/9,SK Residence e/11,320,490,123,6.5,348,511,146,normal
+273,29-11-23,17:09:00,itwar bazar h/9,Coyote Den Travelers Hostel Islamabad e/11,319,455,453,6.2,339,497,142,normal
+274,29-11-23,17:12:00,itwar bazar h/9,The Jungle Lounge  e/11,448,526,197,5.9,329,484,137,normal
+275,29-11-23,17:14:00,itwar bazar h/9,Fitness Zone by The NAK e/11,440,518,194,6.1,336,492,140,normal
+276,29-11-23,17:16:00,itwar bazar h/9,Arif Javed Rao Park e/11,312,445,116,5.9,329,483,137,normal
+277,29-11-23,17:18:00,itwar bazar h/9,Najeeb Pharmacy E-11/3,440,518,194,5.4,313,461,130,normal
+278,29-11-23,17:22:00,itwar bazar h/9,GLLC Languages Institute Islamabad e/11,300,440,100,5.5,313,461,130,normal
+279,29-11-23,17:25:00,itwar bazar h/9,BABA JEE GUEST HOUSE e/11,287,412,97,5.2,307,452,128,normal
+280,29-11-23,17:27:00,itwar bazar h/9,INDUS HERITAGE CLUB e/11,290,443,113,5.5,317,465,132,normal
+281,29-11-23,17:29:00,F8 Markaz,Mudan Residence guest house e/11,377,442,162,9,427,621,181,normal
+282,29-11-23,17:31:00,F8 Markaz,Sargodhian Spirit Trust (SST) e/11,412,602,161,9,427,621,181,normal
+283,29-11-23,17:35:00,F8 Markaz,Beaconhouse E11 Campus,365,425,155,8.8,437,635,185,normal
+284,29-11-23,17:39:00,F8 Markaz,"IIUI School, E-11 Campus",363,423,151,8.8,421,613,178,normal
+285,29-11-23,17:43:00,F8 Markaz,ARJ Events e/11,402,580,154,8.9,424,617,179,normal
+286,29-11-23,17:46:00,F8 Markaz,BASES INCLUSIVE MONTESSORI e/11,382,450,162,10,462,670,196,normal
+287,29-11-23,17:49:00,F8 Markaz,Kamran auto bike shop e/11,354,414,151,9.1,430,625,182,normal
+288,29-11-23,17:51:00,F8 Markaz,Step Inn Guest House Islamabad e/11,373,437,161,8.6,415,603,175,normal
+289,29-11-23,17:53:00,F8 Markaz,Dream Inn Guest House islamabad e/11,396,601,165,9.1,430,626,182,normal
+290,29-11-23,17:54:00,F8 Markaz,Alfalah Manzil Trust e/11,382,450,167,9,427,621,181,normal
+291,29-11-23,17:56:00,F8 Markaz,Aura Grande Enclave e/11,329,395,134,8.2,399,581,168,normal
+292,29-11-23,17:57:00,F8 Markaz,LHR Milk Shake e/11,421,632,154,10,456,661,193,normal
+293,29-11-23,17:58:00,F8 Markaz,We Play Entertainment Center e/11,351,411,144,8.9,424,617,179,normal
+294,29-11-23,17:59:00,F8 Markaz,AL VEER GUEST HOUSE & APARTMENTS e/11,454,645,167,11,471,685,200,normal
+295,29-11-23,18:01:00,F8 Markaz,National Defence University (NDU) e/9,277,346,135,3.8,291,430,121,normal
+296,29-11-23,18:03:00,F8 Markaz,PNS Hafeez - Naval Hospital e/8,219,273,87,2.6,225,336,91,normal
+297,29-11-23,18:05:00,F8 Markaz,Shelton Guest House f/8,200,298,67,2.3,215,322,87,normal
+298,29-11-23,18:07:00,F8 Markaz,PNS Zafar e/8,205,345,70,3.3,247,368,101,normal
+299,29-11-23,18:09:00,F8 Markaz,PAF Complex Islamabad - AHQ e/9,262,328,104,6.5,291,430,121,normal
+300,29-11-23,18:11:00,F8 Markaz,Faisal Battery Shop e/7,223,343,70,3.5,253,376,104,normal
+301,29-11-23,18:12:00,F8 Markaz,CSD - Canteen Stores Department e/8,210,323,76,2.8,231,346,94,normal
+302,29-11-23,18:14:00,F8 Markaz,PN Football Ground e/8,201,321,80,3.1,241,359,98,normal
+303,29-11-23,18:16:00,F8 Markaz,Navy Mess Guestrooms e/8,242,303,95,3.1,241,359,98,normal
+304,29-11-23,18:19:00,F8 Markaz,PN Central Mess,240,300,94,3,238,354,97,normal
+305,29-11-23,18:22:00,F8 Markaz,Riding Club E-8,266,332,107,3.9,266,394,109,normal
+306,29-11-23,18:30:00,The centaures mall f/8,Riding Club E-8,321,398,128,4.5,307,452,128,normal
+307,29-11-23,18:31:00,The centaures mall f/8,PNS Zafar Helipad e/8,276,406,100,4,291,430,121,normal
+308,29-11-23,18:33:00,The centaures mall f/8,Islamabad Fire Station e/8,250,400,90,3.8,288,425,119,normal
+309,29-11-23,18:35:00,The centaures mall f/8,M.E.S Mosque e/8,296,368,126,4.6,307,452,128,normal
+310,29-11-23,18:37:00,The centaures mall f/8,Bahria Park e/8,294,386,124,4.9,317,465,132,normal
+311,29-11-23,18:39:00,The centaures mall f/8,VCNS House e/8,290,443,90,4.8,313,461,130,normal
+312,29-11-23,18:40:00,The centaures mall f/8,ARC Officer’s Mess (ARCOM) e/8,293,390,125,4.6,310,456,129,normal
+313,29-11-23,18:41:00,The centaures mall f/8,Naval Park e/8,248,329,105,3.5,279,412,115,normal
+314,29-11-23,18:43:00,The centaures mall f/8,Margalla Park f/8,231,309,98,2.8,234,348,95,normal
+315,29-11-23,18:44:00,The centaures mall f/8,Special Children Bahria College Islamabad e/8,245,398,97,3.7,285,420,118,normal
+316,29-11-23,18:46:00,The centaures mall f/8,"Post Office, E-8, Islamabad",281,384,118,3.8,288,425,119,normal
+317,29-11-23,18:47:00,The centaures mall f/8,The Jungle Lounge  e/11,403,501,189,9.5,462,671,196,normal
+318,29-11-23,18:49:00,The centaures mall f/8,Hill View Residency e/11,498,703,198,11,516,746,220,normal
+319,29-11-23,18:51:00,The centaures mall f/8,Sarai Silk Route Islamabad e/11,424,515,195,11,509,737,217,normal
+320,29-11-23,18:53:00,karachi company bus stand g/9,Us guest house islamabad E11,412,634,176,9.6,456,663,193,normal
+321,29-11-23,18:55:00,karachi company bus stand g/9,BR 9 -Best Sheesha Cafe in Islamabad e/11,476,678,176,9.4,509,739,217,normal
+322,29-11-23,18:57:00,karachi company bus stand g/9,Metro Consulting Grid Pvt Ltd. e/11,418,497,190,9.3,506,733,216,normal
+323,29-11-23,18:59:00,karachi company bus stand g/9,Lazzat spa Islamabad e/11,402,598,156,9,427,623,181,normal
+324,29-11-23,18:23:00,daraz islamabad warehouse i/9,pims metro station g/8,309,386,146,8.2,405,589,171,normal
+325,29-11-23,18:26:00,daraz islamabad warehouse i/9,IJP metro bus station i/8,201,252,75,3.8,263,389,108,normal
+326,29-11-23,18:24:00,daraz islamabad warehouse i/9,"Faizabad Bus Station Karnal Sher Khan Shaheed Road, Faizabad I 8/4 I-8, Islamabad",280,350,112,5.2,405,589,171,normal
+327,29-11-23,18:28:00,daraz islamabad warehouse i/9,"Butt Lodges Guest House Street 95, I-8/4 I 8/4 I-8, Islamabad",248,367,98,4.4,282,416,116,normal
+328,29-11-23,18:31:00,IJP metro bus station i/8,Islamabad model college for girls G-10/2,277,345,120,11.8,351,513,147,normal
+329,29-11-23,18:35:00,daraz islamabad warehouse i/9,new palace guest house g/9,269,342,107,5.3,313,461,130,normal
+330,29-11-23,19:00:00,karachi company bus stand g/9,Jamia Masjid Qurtubah e/11,408,487,191,8.4,411,601,174,normal
+331,29-11-23,19:01:00,karachi company bus stand g/9,AJWA RANT A CAR e/11,390,570,123,8.4,415,606,175,normal
+332,29-11-23,19:03:00,karachi company bus stand g/9,"Autism Resource Centre, Islamabad e/11",406,494,189,8.1,402,588,170,normal
+333,29-11-23,19:04:00,karachi company bus stand g/9,The City School E-11 Campus,378,481,183,8,396,576,167,normal
+334,29-11-23,19:06:00,karachi company bus stand g/9,MARGALLA Hills Residency Islamabad E-11/3,399,474,189,8,399,583,168,normal
+335,29-11-23,19:07:00,karachi company bus stand g/9,Apple Group of Schools Islamabad e/11,399,475,188,8.1,402,588,170,normal
+336,29-11-23,19:07:00,karachi company bus stand g/9,Flexi dreams hospitality services Islamabad e/11,345,465,134,7.8,392,574,165,normal
+337,29-11-23,19:11:00,karachi company bus stand g/9,IBH BOYS HOSTEL e/11,393,465,177,7.8,392,574,165,normal
+338,29-11-23,19:13:00,karachi company bus stand g/9,Premier cottage Inn e/11,181,238,65,7.7,389,569,164,normal
+339,29-11-23,19:15:00,karachi company bus stand g/9,Unicres Pvt Ltd e/11,345,532,143,7.7,389,569,164,normal
+340,29-11-23,19:17:00,karachi company bus stand g/9,Backpackers Hostel Islamabad e/11,382,449,171,7.4,370,542,156,normal
+341,29-11-23,19:48:00,Maryam Girls Hostel i-14/3,air uiversity  e/8,535,667,280,18.4,724,1039,312,normal
+342,29-11-23,19:52:00,Maryam Girls Hostel i-14/3,paf hospital unit 2 e/9,570,720,270,18.4,721,1036,311,normal
+343,29-11-23,19:54:00,Maryam Girls Hostel i-14/3,Riphah International University i-14,147,184,70,0.85,178,290,80,normal
+344,29-11-23,19:55:00,Maryam Girls Hostel i-14/3,G-11 sunday bazar,385,480,180,11.2,497,718,212,normal
+345,29-11-23,19:59:00,new palace guest house g/9,Maryam Girls Hostel i-14/3,476,593,223,14.1,588,849,252,normal
+346,29-11-23,20:04:00,new palace guest house g/9,Riphah International University i-14,445,555,206,13.8,579,836,248,normal
+347,29-11-23,20:07:00,new palace guest house g/9,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",358,447,162,12.1,525,758,224,normal
+348,29-11-23,20:08:00,new palace guest house g/9,IJP metro bus station,232,322,111,6,332,486,139,normal
+349,30-11-23,7:55:00,Islamabad model college for girls G-10/2,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",459,572,226,13.3,509,737,217,rainy
+350,30-11-23,7:59:00,Islamabad model college for girls G-10/2,paf hospital unit 2 e/8,342,373,130,7.2,475,688,202,rainy
+351,30-11-23,8:31:00,Islamabad model college for girls G-10/2,Maryam Girls Hostel i-14/3,675,1100,310,17.6,920,1316,399,rainy
+352,30-11-23,8:36:00,Islamabad model college for girls G-10/2,cheezious i-8,387,484,163,5.3,402,586,170,rainy
+353,30-11-23,11:22:00,IBH BOYS HOSTEL e/11,Kulsum Sugarcane Juice e/11,165,245,67,1.4,193,290,80,normal
+354,30-11-23,11:24:00,IBH BOYS HOSTEL e/11,BASES INCLUSIVE MONTESSORI e/11,257,326,71,0.95,178,290,80,normal
+355,30-11-23,11:25:00,IBH BOYS HOSTEL e/11,Pak Voter e/11,158,256,70,0.65,178,290,80,normal
+356,30-11-23,11:26:00,IBH BOYS HOSTEL e/11,INDUS HERITAGE CLUB e/11,145,256,68,0.85,178,290,80,normal
+357,30-11-23,11:28:00,IBH BOYS HOSTEL e/11,Mudan Residence guest house e/11,342,407,66,0.22,178,290,80,normal
+358,30-11-23,11:31:00,Cheezious f11,Delano Residence e/11,325,375,153,3.7,276,407,114,normal
+359,30-11-23,11:34:00,Cheezious f11,Executive Residency e/11,239,294,124,4.5,462,669,196,normal
+360,30-11-23,11:37:00,Cheezious f11,SK Residence  e/11,289,409,116,5.2,307,452,128,normal
+361,30-11-23,11:38:00,Cheezious f11,Aura Grande Event Complex  e/11,190,253,95,3,238,353,97,normal
+362,30-11-23,11:39:00,Cheezious f11,Monal Marquee  e/11,184,246,65,2.8,231,344,94,normal
+363,30-11-23,11:41:00,Cheezious f11,Backpackers Hostel Islamabad  e/11,171,230,65,2.3,212,317,86,normal
+364,30-11-23,11:42:00,Cheezious f11,AL VEER GUEST HOUSE & APARTMENTS  e/11,287,423,102,4.3,310,456,129,normal
+365,30-11-23,11:44:00,Cheezious f11,Arif Javed Rao Park  e/11,256,402,98,4.4,288,424,119,normal
+366,30-11-23,11:46:00,Cheezious f11,F.E.C.H.S.  e/11,272,356,109,5,304,447,126,normal
+367,30-11-23,11:48:00,Cheezious f11,Mishi Maan Beauty Parlour  e/11,241,318,90,5.1,304,447,126,normal
+368,30-11-23,11:50:00,Cheezious f11,Ahang Kada  e/11,298,434,104,4.8,317,465,132,normal
+369,30-11-23,11:51:00,Cheezious f11,Harveys Guest House  e/11,286,373,110,4.9,317,465,132,normal
+370,30-11-23,11:52:00,Cheezious f11,Peridot Cottage  e/11,306,392,126,4.7,313,461,130,normal
+371,30-11-23,11:54:00,Cheezious f11,Home Inn Guesthouse E11/2,267,419,101,4.9,298,438,123,normal
+372,30-11-23,11:57:00,Cheezious f11,Hyatt Aryana Guest House Islamabad  e/11,259,333,103,4.7,291,429,121,normal
+373,30-11-23,12:21:00,G-11 Sunday Bazar,Maryam Girls Hostel i-14/3,367,408,184,11.1,494,715,210,rainy
+374,30-11-23,12:25:00,G-11 Sunday Bazar,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",255,354,124,7.1,367,536,154,rainy
+375,30-11-23,12:27:00,G-11 Sunday Bazar,IJP metro bus station i/8,304,379,124,8.7,418,606,177,rainy
+376,30-11-23,12:38:00,mezban tandoori islamabad G-11,faiz ahmad faiz metro station h/8,273,341,125,7.3,342,499,143,rainy
+377,30-11-23,12:46:00,mezban tandoori islamabad G-11,Bismillah Plaza I-10 markaz,345,43,160,10.1,462,670,196,rainy
+378,30-11-23,12:56:00,mezban tandoori islamabad G-11,Riphah International University i-14,350,471,166,10.5,475,689,202,rainy
+379,30-11-23,12:59:00,mezban tandoori islamabad G-11,Maryam Girls Hostel i-14/3,403,503,205,10.8,484,702,206,rainy
+380,30-11-23,12:28:00,mezban cafe islamabad g/11,IJP metro bus station i/8,333,416,163,10.2,465,673,198,rainy
+381,30-11-23,13:18:00,The comfort lodge f/11,Riphah International University i-14,395,492,171,10.9,487,708,207,rainy
+382,30-11-23,13:11:00,The comfort lodge f/11,Maryam Girls Hostel i-14/3,423,527,187,11.2,497,721,212,rainy
+383,30-11-23,13:21:00,The comfort lodge f/11,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",298,372,127,7.2,370,542,156,rainy
+384,30-11-23,13:35:00,Delight Afghani burger and french fries G-9/4,Maryam Girls Hostel i-14/3,517,641,249,15.1,620,894,266,rainy
+385,30-11-23,13:38:00,Delight Afghani burger and french fries G-9/4,IJP metro bus station i/8,246,307,110,6,332,486,139,rainy
+386,30-11-23,13:40:00,Delight Afghani burger and french fries G-9/4,Riphah International University i-14,487,608,234,16.7,610,881,262,rainy
+387,30-11-23,13:42:00,Delight Afghani burger and french fries G-9/4,D Watson I-10 Markaz,321,400,145,8.1,399,581,168,rainy
+388,30-11-23,13:44:00,Delight Afghani burger and french fries G-9/4,new boys hotel i/13,531,661,254,16.8,674,969,290,rainy
+389,30-11-23,13:46:00,Delight Afghani burger and french fries G-9/4,"PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",215,268,90,4.8,294,433,122,rainy
+390,30-11-23,13:47:00,Delight Afghani burger and french fries G-9/4,"BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD I-9/1 I 9/1 I-9, Islamabad",295,368,128,7,364,531,153,rainy
+391,30-11-23,20:23:00,Islamabad model college for girls G-10/2,IJP metro bus station i/8,324,404,149,6.9,440,638,186,rainy
+392,30-11-23,20:27:00,Islamabad model college for girls G-10/2,Bismillah Market I-10 markaz,398,496,217,8.2,427,620,181,rainy
+393,01-12-23,14:27:00,The comfort lodge f/11,faiz ahmad faiz metro station h/8,331,413,151,9.6,443,642,188,normal
+394,01-12-23,14:29:00,The comfort lodge f/11,Delight Afghani burger and french fries G-9/4,312,340,139,9,380,555,160,normal
+395,01-12-23,14:31:00,The comfort lodge f/11,mezban tandoori islamabad G-11,169,210,66,2.4,219,325,88,normal
+396,01-12-23,20:12:00,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad", faiz ahmad faiz metro station h/8,363,657,174,11.8,516,743,220,normal
+397,01-12-23,20:14:00,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",mezban tandoori islamabad G-11,352,423,118,6.6,351,513,147,normal
+398,01-12-23,20:16:00,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",Ayub Market f7 markaz,511,579,211,14.8,610,879,262,normal
+399,01-12-23,20:17:00,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad","PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",488,524,206,14.5,601,864,258,normal
+400,01-12-23,20:20:00,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",Maryam Girls Hostel i-14/3,350,361,123,6.5,348,510,146,normal
+401,01-12-23,20:22:00,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",Bismillah Plaza I-10 markaz,489,515,191,12.7,544,785,233,normal
+402,02-12-23,14:27:00,Margalla Filling Station Total PARCO Petrol Pump b/17,Chattha’s  F10,890,300,276,23.8,1132,342,761,normal
+403,02-12-23,14:48:00,Margalla Filling Station Total PARCO Petrol Pump b/18,Tandoori Restaurant  F10,597,746,288,27.4,1154,349,806,normal
+404,02-12-23,14:50:00,Margalla Filling Station Total PARCO Petrol Pump b/19,Khabbay Ki Sajji  F10,610,762,296,24.4,803,1149,347,normal
+405,02-12-23,14:55:00,Margalla Filling Station Total PARCO Petrol Pump b/20,Butt Karahi F-10,610,762,296,24.4,1149,347,803,normal
+406,02-12-23,14:58:00,Margalla Filling Station Total PARCO Petrol Pump b/21,italian oven f-10,657,820,297,24.1,1149,347,803,normal
+407,02-12-23,15:00:00,Margalla Filling Station Total PARCO Petrol Pump b/22,Orient Restaurant  F10,653,814,299,24.3,1185,359,829,normal
+408,02-12-23,15:15:00,Margalla Filling Station Total PARCO Petrol Pump b/23,Hot N Chilli  F10,615,290,298,24.4,1154,349,806,normal
+409,02-12-23,15:49:00,Margalla Filling Station Total PARCO Petrol Pump b/24,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),604,802,300,24.1,1132,342,791,normal
+410,02-12-23,15:59:00,Auracael Private limited  b/17,Orient Restaurant  F10,726,904,361,24.5,1310,398,917,normal
+411,03-12-23,16:22:00,Auracael Private limited  b/17,Hot N Chilli  F10,730,910,361,23.8,1279,388,895,normal
+412,05-12-23,10:36:00,Bahria E-8/1,F-8 markaz,228,284,94,2.9,209,313,85,normal
+413,05-12-23,10:38:00,Bahria E-8/1,Centaurus mall f/8,240,322,104,4.6,253,376,104,normal
+414,05-12-23,10:38:00,Bahria E-8/1,Safa gold mall  f/7,243,374,99,4.3,260,384,107,normal
+415,05-12-23,10:39:00,Bahria E-8/1,F-10 markaz,247,385,104,4.9,260,385,107,normal
+416,05-12-23,10:39:00,Bahria E-8/1,Blue Area Dwatson g/7,256,397,106,4.4,279,411,115,normal
+417,05-12-23,10:39:00,Bahria E-8/1,Jinnah Supermarket f/7,278,382,106,5.8,263,389,108,normal
+418,05-12-23,10:41:00,Bahria E-8/1,Aiwan E Saddar g/6,432,591,185,9.1,452,656,192,normal
+419,05-12-23,10:42:00,Bahria E-8/1,Rose & Jasmine Garden g/6,374,473,163,8.7,408,594,172,normal
+420,05-12-23,10:42:00,Bahria E-8/1,Ibn-e-sina Road g/11,281,415,114,5.3,323,473,135,normal
+421,05-12-23,10:43:00,Bahria E-8/1,Shalimar cricket ground f/6,300,456,126,5.6,301,442,125,normal
+422,05-12-23,10:43:00,Bahria E-8/1,F-11 markaz,339,445,166,7.8,505,345,144,normal
+423,05-12-23,10:44:00,Bahria E-8/1,Faisal mosque e/8,348,403,136,3.4,231,344,94,normal
+424,05-12-23,10:44:00,Bahria E-8/1,Margalla Road f/8,295,298,116,0.8,178,290,80,normal
+425,05-12-23,10:46:00,Bahria E-8/1,Khawaja Market,408,412,160,6.2,276,407,114,normal
+426,05-12-23,10:47:00,Bahria E-8/1,Model college Girls G-8/4,441,446,181,6.2,323,473,135,normal
+427,05-12-23,10:48:00,Bahria E-8/1,Serena Hotel g/5,405,506,178,9.9,452,656,191,normal
+428,05-12-23,10:49:00,Bahria E-8/1,PNCA f/5,416,544,178,8.6,396,577,167,normal
+429,05-12-23,10:49:00,Bahria E-8/1,Daman-e-Koh f/6,376,497,158,8.2,383,559,161,normal
+430,05-12-23,10:50:00,Bahria E-8/1,Pakistan Monument  g/7,416,519,182,10.4,456,661,193,normal
+431,05-12-23,10:51:00,Bahria E-8/1,Lake view Park,529,694,211,13.8,569,821,244,normal
+432,05-12-23,10:52:00,Bahria E-8/1,Shakarparian Park,522,522,242,9.8,443,643,188,normal
+433,05-12-23,10:53:00,Bahria E-8/1,Air University e/9,249,252,112,0.75,178,290,80,normal
+434,05-12-23,10:53:00,Bahria E-8/1,Saidpur Village g/6,427,431,187,6.1,298,438,123,normal
+435,05-12-23,10:54:00,Bahria E-8/1,Japanese children Park,347,350,177,4.6,269,398,111,normal
+436,05-12-23,10:55:00,Bahria E-8/1,Melody Food Park g/6,487,492,217,8.3,405,589,171,normal
+437,05-12-23,10:55:00,Bahria E-8/1,Lok Virsa Heritage Museum,491,496,224,9.2,427,620,181,normal
+438,05-12-23,10:55:00,Bahria E-8/1,Diplomatic Enclave g/5,645,629,315,12.2,525,759,224,normal
+439,05-12-23,10:55:00,Bahria E-8/1,Cafe Aylanto f/7,331,334,168,3.9,247,367,101,normal
+440,05-12-23,10:56:00,Bahria E-8/1,Islamabad Club g/7,550,660,222,10.3,459,665,195,normal
+441,05-12-23,10:56:00,Bahria E-8/1,Tuscany courtyard F-7,215,268,87,6.2,323,474,135,normal
+442,05-12-23,10:57:00,Bahria E-8/1,Subway F-8,189,236,80,5.8,197,295,80,normal
+443,05-12-23,10:57:00,Bahria E-8/1,Lal Masjid g/6,363,452,182,7.6,377,549,158,normal
+444,05-12-23,10:58:00,Bahria E-8/1,Monal Tree House,558,668,222,13,560,810,240,normal
+445,05-12-23,10:58:00,Bahria E-8/1,F-7 markaz,256,319,107,3.6,263,389,108,normal
+446,05-12-23,10:58:00,Bahria E-8/1,Mall of Islamabad g/7,272,340,119,4.9,295,433,122,normal
+447,05-12-23,10:59:00,Bahria E-8/1,Giga Mall f11,932,1193,524,31,1119,1596,487,normal
+448,05-12-23,10:59:00,Bahria E-8/1,The Moi Mall f/11,341,426,170,6.5,345,504,144,normal
+449,05-12-23,10:59:00,Bahria E-8/1,Al Jannat Mall G-9,370,374,177,4.2,269,399,111,normal
+450,05-12-23,11:00:00,Bahria E-8/1,Al Haram Apartments e/11,432,437,188,6,329,483,137,normal
+451,05-12-23,11:00:00,Bahria E-8/1,Mindster Coworking  g/6,369,422,162,7.2,367,536,154,normal
+452,05-12-23,11:00:00,Bahria E-8/1,The Hive Block J g/6,328,374,146,4.6,288,424,119,normal
+453,05-12-23,11:01:00,Bahria E-8/1,Dastarkhwan g/7,723,818,342,9.5,424,616,179,normal
+454,05-12-23,11:01:00,Bahria E-8/1,The Desk Coworking I-9,410,470,173,7.9,389,567,164,normal
+455,05-12-23,11:01:00,Bahria E-8/1,Kickstart Flagship i/10,434,539,184,9.9,192,657,452,normal
+456,05-12-23,11:02:00,Bahria E-8/1,KNCT i/10,413,552,178,9.1,427,621,181,normal
+457,05-12-23,11:02:00,Bahria E-8/1,DPL (Pvt) Ltd i/8,298,372,153,4.6,282,415,116,normal
+458,05-12-23,11:03:00,Bahria E-8/1,DPL (Pvt) Ltd i/8,396,566,200,8.4,405,590,171,normal
+459,05-12-23,11:03:00,Bahria E-8/1,HEC  H - 9/4,552,550,140,5.9,326,478,136,normal
+460,05-12-23,11:03:00,Bahria E-8/1,PTA   F - 5/1 ,421,454,191,8.3,402,584,170,normal
+461,05-12-23,11:04:00,Bahria E-8/1,PTCL Headquarter g/8,424,438,194,5.2,307,451,128,normal
+462,05-12-23,11:05:00,Bahria E-8/1,PTCL Exchange f/8,432,537,224,2.2,484,701,206,normal
+463,05-12-23,11:04:00,Bahria E-8/1,Funsol Tech Guldberg,857,914,423,20,768,1099,332,normal
+464,05-12-23,11:05:00,Bahria E-8/1,Al Hussain Market I-10/2,708,678,209,14,585,845,251,normal
+465,05-12-23,11:06:00,Bahria E-8/1,Quixel G-6/3,512,520,218,7.5,392,571,165,normal
+466,05-12-23,11:06:00,Bahria E-8/1,CUST Block E,1233,1154,563,26.9,971,1386,422,normal
+467,05-12-23,11:06:00,Bahria E-8/1,FAST (NUCES) h/11,432,537,203,11,484,700,206,normal
+468,05-12-23,11:07:00,Bahria E-8/1,NUST Gate-10,521,628,233,13.7,516,745,220,normal
+469,05-12-23,11:08:00,Bahria E-8/1,COMSATS (CUI),693,836,366,21,794,1136,343,normal
+470,05-12-23,11:09:00,Bahria E-8/1,NUML H-9/4,354,442,160,7.2,363,532,153,normal
+471,05-12-23,11:09:00,Bahria E-8/1,Fatima Jinnah Park f/9,334,380,141,5.8,279,411,115,normal
+472,05-12-23,11:09:00,Bahria E-8/1,IIUI I-8/3,471,541,205,12.8,440,639,186,normal
+473,05-12-23,11:10:00,Bahria E-8/1,PIEAS (lehtrar Road),1099,1395,582,30.5,1091,1557,475,normal
+474,05-12-23,11:10:00,Bahria E-8/1,RIPHAH International i/14,385,441,177,7.6,737,1057,318,normal
+475,05-12-23,11:11:00,Bahria E-8/1,NUTECH University 1/12,592,666,257,14.5,607,875,261,normal
+476,05-12-23,11:11:00,Bahria E-8/1,Dawat Restaurant g/5,517,588,223,10.1,452,656,192,normal
+477,05-12-23,11:11:00,Bahria E-8/1,Tandoori Restaurant f/10,333,382,139,6,301,442,125,normal
+478,05-12-23,11:12:00,Bahria E-8/1,Kabul Restaurant f/7,264,299,101,3.2,253,375,104,normal
+479,05-12-23,11:12:00,Bahria E-8/1,The Carnivore f/6,344,393,147,6.1,318,465,132,normal
+480,05-12-23,11:12:00,Bahria E-8/1,Wild Rice Restaurant g/5,409,510,188,10.1,452,656,192,normal
+481,05-12-23,11:13:00,Bahria E-8/1,Al Maghreb Serena g/5,395,493,181,10.1,452,656,192,normal
+482,05-12-23,11:14:00,Bahria E-8/1,La  Terraza  f/8,257,320,109,4.5,250,371,102,normal
+483,05-12-23,11:14:00,Bahria E-8/1,Street 1 Cafe f/6,319,398,161,6.3,323,474,135,normal
+484,05-12-23,11:15:00,Bahria E-8/1,Asian Wok f/6,318,397,147,6.6,345,504,144,normal
+485,05-12-23,11:15:00,Bahria E-8/1,Savour Food Blue area g/7,313,449,124,5.3,288,425,119,normal
+486,05-12-23,11:15:00,Bahria E-8/1,Howdy F-7/3,287,297,120,3.9,244,362,100,normal
+487,05-12-23,11:16:00,Bahria E-8/1,Bala Tikka House,933,924,441,25,926,1323,402,normal
+488,05-12-23,11:16:00,Bahria E-8/1,Habibi Restaurant F-8,237,241,96,2.6,212,318,86,normal
+489,05-12-23,11:17:00,Bahria E-8/1,Zamzama Collection F-7,292,303,120,4,250,371,102,normal
+490,05-12-23,11:17:00,Bahria E-8/1,What a Paratha F-11,381,401,169,4.4,345,505,144,normal
+491,05-12-23,11:17:00,Bahria E-8/1,McDonald's F-7,337,356,118,6.4,360,420,140,normal
+492,05-12-23,11:17:00,Bahria E-8/1,OPTP F-7,336,354,119,4.4,260,385,107,normal
+493,05-12-23,11:18:00,Bahria E-8/1,Cheezious F-7 markaz,246,340,95,3.9,247,367,101,normal
+494,05-12-23,11:18:00,Bahria E-8/1,2 Broke Engineers F-7,302,385,111,3.7,241,357,98,normal
+495,05-12-23,11:18:00,Bahria E-8/1,Pizza Hut I-8,402,529,172,9.7,408,594,172,normal
+496,05-12-23,11:18:00,Bahria E-8/1,Dominos Pizza E-11,338,470,146,6.9,358,523,150,normal
+497,05-12-23,11:19:00,Bahria E-8/1,Tehzeeb Bakers I-8,494,546,216,9.6,405,590,171,normal
+498,05-12-23,11:19:00,Bahria E-8/1,Layer Bake Shop I-8,498,503,217,10.4,405,589,171,normal
+499,05-12-23,11:19:00,Bahria E-8/1,Syrian Shawarma,329,374,135,4.4,257,380,105,normal
+500,05-12-23,11:19:00,Bahria E-8/1,Ranchers I-8,501,551,218,9.7,408,595,172,normal
+501,05-12-23,11:20:00,Bahria E-8/1,Foody Moody Refreshment f/8,262,309,105,2,203,304,81,normal
+502,05-12-23,11:20:00,Bahria E-8/1,Kohsar Market f/6,1257,1199,598,6.2,320,469,133,normal
+503,05-12-23,11:20:00,Bahria E-8/1,Ayub Market F-8,276,279,112,2.9,209,313,84,normal
+504,05-12-23,11:21:00,Bahria E-8/1,New Aabpara Market g/6,457,462,200,7.7,367,536,154,normal
+505,05-12-23,11:22:00,Bahria E-8/1,Kiyani Market G/10,327,408,141,7,342,500,143,normal
+506,05-12-23,11:23:00,Bahria E-8/1,Sagheer Market f/10,261,326,108,5.2,294,433,122,normal
+507,05-12-23,11:24:00,Bahria E-8/1,Supermarket g/10,311,388,135,6.2,320,470,133,normal
+508,05-12-23,11:25:00,Bahria E-8/1,Madina Market g/11,177,221,71,1.2,178,290,80,normal
+509,05-12-23,11:25:00,Bahria E-8/1,Muslim Market f/10,247,308,100,4.5,253,375,104,normal
+510,05-12-23,11:26:00,Bahria E-8/1,Abbasi Market f/8,257,259,83,2.6,197,295,80,normal
+511,06-12-23,12:39:00,Shakarparian Hills,Al sahib Heights e/11,526,870,233,15,633,911,272,normal
+512,06-12-23,12:45:00,Shakarparian Hills,F8 MARKAZ,386,580,179,9.2,437,634,185,normal
+513,06-12-23,12:48:00,Shakarparian Hills,air uni e/8,428,600,218,10,465,675,198,normal
+514,06-12-23,12:53:00,Shakarparian Hills,bahria uni e/8,430,645,219,9.7,484,703,206,normal
+515,06-12-23,12:57:00,Shakarparian Hills,khayaban e iqbal f/6,425,504,194,9.6,449,652,191,normal
+516,06-12-23,13:00:00,Shakarparian Hills,g9 markaz,389,532,180,8.6,408,594,172,normal
+517,06-12-23,13:03:00,Shakarparian Hills,NUML G 3,374,567,163,9.5,421,612,178,normal
+518,06-12-23,13:06:00,Shakarparian Hills,ibn e sina metro  g/9,382,450,176,8,402,584,170,normal
+519,06-12-23,13:09:00,Shakarparian Hills,g11,476,768,207,11,569,821,244,normal
+520,06-12-23,13:12:00,Shakarparian Hills,f8 markaz,387,538,179,9.2,437,637,185,normal
+521,06-12-23,13:14:00,Shakarparian Hills,g9 bus stop,433,498,178,9,405,589,171,normal
+522,06-12-23,13:16:00,Shakarparian Hills,g9 markaz,391,500,180,8.6,408,594,172,normal
+523,06-12-23,13:17:00,Shakarparian Hills,HOT N SPICE e/11,567,876,202,16,655,944,282,normal
+524,06-12-23,14:16:00,Shakarparian Hills,The Grill burger e/11,462,550,198,7,418,607,177,normal
+525,06-12-23,14:18:00,Shakarparian Hills,La Cucina e/11,345,487,100,6,400,587,145,normal
+526,06-12-23,14:20:00,Shakarparian Hills,Black Rock Cafe e/11,543,704,252,16,712,1023,307,normal
+527,06-12-23,14:23:00,Shakarparian Hills,Kashmir Residency Boys Hostel e/11,552,716,267,16,721,1037,311,normal
+528,06-12-23,14:25:00,Shakarparian Hills,SK Residence e/11,687,987,287,17,724,1041,312,normal
+529,06-12-23,14:27:00,Shakarparian Hills,Coyote Den Travelers Hostel Islamabad e/11,678,976,287,16,718,1032,310,normal
+530,06-12-23,14:30:00,Shakarparian Hills,The Jungle Lounge e/11,538,650,241,16,705,1014,304,normal
+531,06-12-23,14:30:00,Islamabad Museum g/5,Hill View Residency e/11,514,610,225,16,671,964,289,normal
+532,06-12-23,14:32:00,Islamabad Museum g/5,Sarai Silk Route Islamabad,505,596,224,16,664,955,286,normal
+533,06-12-23,14:33:00,Islamabad Museum g/5,Us guest house islamabad E11,604,921,231,16,671,964,289,normal
+534,06-12-23,14:34:00,Islamabad Museum g/5,BR 9 -Best Sheesha Cafe in Islamabad e/11,623,923,243,16,677,973,291,normal
+535,06-12-23,14:36:00,Islamabad Museum g/5,Metro Consulting Grid Pvt Ltd. e/11,508,627,225,16,674,968,290,normal
+536,06-12-23,14:37:00,Islamabad Museum g/5,Lazzat spa Islamabad e/11,683,850,380,15,639,920,275,normal
+537,06-12-23,14:38:00,Islamabad Museum g/5,Jamia Masjid Qurtubah e/11,502,614,220,15,626,903,269,normal
+538,06-12-23,14:39:00,Islamabad Museum g/5,AJWA RANT A CAR e/11,587,845,231,15,626,902,269,normal
+539,06-12-23,14:40:00,Islamabad Museum g/5,"Autism Resource Centre, Islamabad e/11",556,821,223,15,617,889,265,normal
+540,06-12-23,14:41:00,Islamabad Museum g/5,The City School E-11 Campus,498,586,219,15,178,290,89,normal
+541,06-12-23,14:43:00,Islamabad Museum g/5,Anum Book & Stationers e/11,423,621,145,10,468,679,199,normal
+542,06-12-23,14:44:00,Islamabad Museum g/5,Fazaia Inter College Islamabad e/9,404,481,185,10,468,679,199,normal
+543,06-12-23,14:46:00,Islamabad Museum g/5,PAF Wards Boys Hostel e/9,398,473,183,9.8,506,732,216,normal
+544,06-12-23,14:48:00,Islamabad Museum g/5,Air Headquarters Reception e/9,390,461,180,11,440,638,186,normal
+545,06-12-23,14:50:00,Islamabad Museum g/5,Middlecoat Park e/9,408,486,184,11,471,683,200,normal
+546,06-12-23,14:52:00,Islamabad Museum g/5,Pakistan Gospel Assemblies Church e/9,558,800,220,14,601,867,258,normal
+547,06-12-23,14:53:00,Islamabad Museum g/5,CSD (Canteen Store Department e/10,368,567,143,8,430,626,182,normal
+548,06-12-23,14:54:00,Islamabad Museum g/5,Pakistan Gate e/10,421,643,156,11,487,704,207,normal
+549,06-12-23,14:56:00,Islamabad Museum g/5,Margalla Greens Golf Club e/8,389,463,173,9.3,437,633,185,normal
+550,06-12-23,14:58:00,Islamabad Museum g/5,National Defence University (NDU) e/9,404,510,187,10,462,670,196,normal
+551,06-12-23,15:00:00,Islamabad Museum g/5,PNS Hafeez - Naval Hospital e/8,393,472,169,7.3,427,622,181,normal
+552,06-12-23,15:01:00,Islamabad Museum g/5,Shelton Guest House f/8,346,438,155,7.2,355,518,149,normal
+553,06-12-23,15:03:00,Islamabad Museum g/5,PNS Zafar e/8,421,622,167,7.8,478,692,203,normal
+554,06-12-23,15:07:00,Islamabad Museum g/5,PAF Complex Islamabad - AHQ e/9,403,480,185,9.3,462,670,196,normal
+555,06-12-23,15:10:00,Islamabad Museum g/5,Faisal Battery Shop e/7,300,478,113,5.9,358,523,150,normal
+556,06-12-23,15:11:00,Islamabad Museum g/5,CSD - Canteen Stores Department e/8,364,461,164,7.3,430,626,182,normal
+557,06-12-23,15:14:00,Daman-e-Koh,PN Football Ground e/8,365,543,134,7.7,421,614,178,normal
+558,06-12-23,15:16:00,Daman-e-Koh,Navy Mess Guestrooms e/8,464,560,172,7.7,420,614,178,normal
+559,06-12-23,15:18:00,Daman-e-Koh,PN Central Mess e/8,456,558,171,7.6,421,614,178,normal
+560,06-12-23,15:19:00,Daman-e-Koh,Riding Club E-8,489,594,187,8.2,437,636,185,normal
+561,06-12-23,15:20:00,Daman-e-Koh,PNS Zafar Helipad e/8,398,543,132,7.8,424,619,179,normal
+562,06-12-23,15:22:00,Daman-e-Koh,Islamabad Fire Station e/8,448,548,171,7.6,418,610,177,normal
+563,06-12-23,15:23:00,Daman-e-Koh,M.E.S Mosque e/8,449,605,192,27,440,640,186,normal
+564,06-12-23,15:24:00,Daman-e-Koh,Bahria Park e/8,467,398,178,8.2,446,469,189,normal
+565,06-12-23,15:25:00,Daman-e-Koh,VCNS House e/8,370,598,156,8.3,443,645,188,normal
+566,06-12-23,15:16:00,Daman-e-Koh,ARC Officer’s Mess (ARCOM) e/8,473,578,213,8.5,440,640,186,normal
+567,06-12-23,15:27:00,Daman-e-Koh,Naval Park e/8,460,532,165,7,411,600,174,normal
+568,06-12-23,15:28:00,Daman-e-Koh,Margalla Park f/8,439,476,189,7.7,364,532,153,normal
+569,06-12-23,15:29:00,Daman-e-Koh,Special Children Bahria College Islamabad e/8,389,546,123,7.5,415,605,175,normal
+570,06-12-23,15:29:00,Mudan Residence guest house e/11,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",411,512,204,16.2,655,942,282,normal
+571,06-12-23,15:30:00,Daman-e-Koh,"Post Office, E-8, Islamabad",477,543,178,7.6,418,609,177,normal
+572,06-12-23,15:32:00,Mudan Residence guest house e/11,Bismillah Plaza I-10 markaz,440,549,236,15,617,888,265,normal
+573,06-12-23,15:35:00,Mudan Residence guest house e/11,Maryam Girls Hostel i-14/3,503,662,270,18.2,1157,1647,504,normal
+574,06-12-23,15:32:00,Islamabad Serena Hotel g/5,Backpackers Hostel Islamabad e/11,502,680,226,15,610,879,262,normal
+575,06-12-23,15:33:00,Islamabad Serena Hotel g/5,AL VEER GUEST HOUSE & APARTMENTS e/11,603,876,200,16,664,956,286,normal
+576,06-12-23,15:34:00,Islamabad Serena Hotel g/5,Arif Javed Rao Park e/11,576,876,201,16,642,923,276,normal
+577,06-12-23,15:36:00,Islamabad Serena Hotel g/5,F.E.C.H.S. e/11,538,722,233,16,661,951,284,normal
+578,06-12-23,15:37:00,Islamabad Serena Hotel g/5,Mishi Maan Beauty Parlour e/11,535,731,258,16,658,946,283,normal
+579,06-12-23,15:39:00,Islamabad Serena Hotel g/5,Ahang Kada e/11,600,901,212,17,671,964,289,normal
+580,06-12-23,15:40:00,Islamabad Serena Hotel g/5,Harveys Guest House e/11,581,900,283,17,674,969,290,normal
+581,06-12-23,15:42:00,Islamabad Serena Hotel g/5,Peridot Cottage e/11,421,865,190,17,648,933,279,normal
+582,06-12-23,15:43:00,Mudan Residence guest house e/11,mezban tandoori islamabad G-11,255,319,126,7.8,386,536,163,normal
+583,06-12-23,15:44:00,Islamabad Serena Hotel g/5,Home Inn Guesthouse E11/2,589,876,200,16,652,937,280,normal
+584,06-12-23,15:44:00,Islamabad Serena Hotel g/5,Hyatt Aryana Guest House Islamabad e11,579,900,250,17,671,964,289,normal
+585,06-12-23,15:46:00,Islamabad Serena Hotel g/5,Al sahib Heights e/11,537,765,224,15,610,879,262,normal
+586,06-12-23,15:46:00,Mudan Residence guest house e/11,Jamia Masjid Qurtubah e/11,146,186,78,1.1,184,290,80,normal
+587,06-12-23,15:48:00,Islamabad Serena Hotel g/5,F8 MARKAZ,428,578,187,8.9,440,638,186,normal
+588,06-12-23,15:49:00,Islamabad Serena Hotel g/5,air uni e/8,456,598,207,10,456,661,193,normal
+589,06-12-23,15:50:00,Islamabad Serena Hotel g/5,bahria uni e/8,457,600,189,9.8,465,675,198,normal
+590,06-12-23,15:52:00,Mudan Residence guest house e/11,D Watson I-10 Markaz,547,552,221,15.3,629,906,270,normal
+591,06-12-23,15:52:00,Islamabad Serena Hotel g/5,khayaban e iqbal f/6,503,598,223,9.7,462,670,196,normal
+592,06-12-23,15:53:00,Islamabad Serena Hotel g/5,g9 markaz,382,512,174,8.6,427,620,181,normal
+593,06-12-23,15:55:00,Islamabad Serena Hotel g/5,NUML G 3,390,534,198,9.5,443,643,188,normal
+594,06-12-23,15:56:00,Islamabad Serena Hotel g/5,ibn e sina metro,435,493,181,8,421,611,178,normal
+595,06-12-23,15:58:00,Islamabad Serena Hotel g/5,g11,593,611,203,12,588,847,252,normal
+596,06-12-23,16:00:00,Islamabad Serena Hotel g/5,f8 markaz,465,523,169,8.9,440,638,167,normal
+597,06-12-23,16:01:00,Aabpara Market g/6,g9 bus stop,338,402,152,7.6,405,589,171,normal
+598,06-12-23,16:02:00,Aabpara Market g/6,g9 /1,394,436,168,8,415,603,175,normal
+599,06-12-23,16:04:00,Aabpara Market g/6,HOT N SPICE e/11,361,396,147,7,358,522,150,normal
+600,06-12-23,16:05:00,Aabpara Market g/6,The Grill burger e/11,404,450,196,5.2,332,487,139,normal
+601,06-12-23,16:09:00,Aabpara Market g/6,E7,330,372,148,5.3,323,473,135,normal
+602,06-12-23,16:10:00,Aabpara Market g/6,Black Rock Cafe e/11,522,583,218,14,636,916,273,normal
+603,06-12-23,16:12:00,Aabpara Market g/6,Kashmir Residency Boys Hostel e/11,531,597,221,15,683,982,294,normal
+604,06-12-23,16:13:00,Aabpara Market g/6,SK Residence e/11,590,865,210,15,648,934,279,normal
+605,06-12-23,16:15:00,Aabpara Market g/6,Coyote Den Travelers Hostel Islamabad e/11,600,879,212,15,642,925,276,normal
+606,06-12-23,16:16:00,Aabpara Market g/6,The Jungle Lounge e/11,517,577,211,15,629,907,270,normal
+607,06-12-23,16:17:00,Aabpara Market g/6,Arif Javed Rao Park e/11,589,950,230,14,629,906,270,normal
+608,06-12-23,16:19:00,Aabpara Market g/6,Najeeb Pharmacy E-11/3,484,565,208,14,614,884,263,normal
+609,06-12-23,16:22:00,Aabpara Market g/6,GLLC Languages Institute Islamabad e/11,587,900,223,14,655,942,282,normal
+610,06-12-23,16:23:00,Aabpara Market g/6,BABA JEE GUEST HOUSE e/11,587,900,232,14,648,933,279,normal
+611,06-12-23,16:25:00,Aabpara Market g/6,INDUS HERITAGE CLUB e/11,587,856,200,14,620,893,266,normal
+612,06-12-23,16:28:00,Aabpara Market g/6,Mudan Residence guest house e/11,484,565,207,14,648,933,279,normal
+613,06-12-23,16:30:00,Aabpara Market g/6,Sargodhian Spirit Trust (SST) e/11,601,876,211,13,645,928,277,normal
+614,06-12-23,16:32:00,Aabpara Market g/6,Beaconhouse E11 Campus,486,636,240,13,642,924,276,normal
+615,06-12-23,16:33:00,Aabpara Market g/6,"IIUI School, E-11 Campus",474,634,236,14,434,628,184,normal
+616,06-12-23,16:34:00,Aabpara Market g/6,ARJ Events e/11,557,823,200,13,607,875,261,normal
+617,06-12-23,16:36:00,Aabpara Market g/6,BASES INCLUSIVE MONTESSORI e/11,491,656,210,14,642,924,276,normal
+618,06-12-23,16:39:00,Aabpara Market g/6,Kamran auto bike shop e/11,463,539,222,13,610,879,262,normal
+619,06-12-23,16:40:00,Aabpara Market g/6,Step Inn Guest House Islamabad e/11,481,561,223,14,636,915,273,normal
+620,06-12-23,16:41:00,Aabpara Market g/6,Dream Inn Guest House islamabad e/11,600,879,240,14,652,937,280,normal
+621,06-12-23,16:42:00,Aabpara Market g/6,Alfalah Manzil Trust e/11,489,573,226,13,648,933,279,normal
+622,06-12-23,16:44:00,Aabpara Market g/6,Aura Grande Enclave e/11,444,521,213,14,620,892,266,normal
+623,06-12-23,16:45:00,Aabpara Market g/6,LHR Milk Shake e/11,632,911,234,15,674,969,290,normal
+624,06-12-23,16:47:00,Aabpara Market g/6,We Play Entertainment Center e/11,465,540,218,13,642,924,276,normal
+625,06-12-23,16:48:00,Aabpara Market g/6,AL VEER GUEST HOUSE & APARTMENTS e/11,623,945,232,14,689,992,297,normal
+626,06-12-23,16:49:00,Aabpara Market g/6,AHQ Officers' Mess e/9,426,504,190,9.6,528,764,226,normal
+627,06-12-23,16:50:00,Aabpara Market g/6,Shaheen Foundation e/9,400,476,182,9,554,799,237,normal
+628,06-12-23,16:51:00,Aabpara Market g/6,Fazaia Teachers Training Institute e/9,385,454,169,8.9,560,808,240,normal
+629,06-12-23,16:52:00,Aabpara Market g/6,PES Secretariat e/9,480,720,180,8.8,547,790,234,normal
+630,06-12-23,16:53:00,Aabpara Market g/6,Pakistan Air Force Mag Sec e/9,401,621,150,9.6,471,685,200,normal
+631,06-12-23,16:55:00,Aabpara Market g/6,E-9 Cricket Ground,409,504,185,9.6,471,685,200,normal
+632,06-12-23,16:57:00,Jinnah Supermarket  f/7,PAF Finishing School e/9,295,367,123,5.2,497,718,212,normal
+633,06-12-23,16:58:00,Jinnah Supermarket f/7,Masjid e Quba e/9,430,509,195,6.2,490,710,209,normal
+634,06-12-23,16:59:00,Jinnah Supermarket f/7,Sports Complex e/11,350,423,150,6.9,509,737,217,normal
+635,06-12-23,17:00:00,Jinnah Supermarket f/7,PAF Main Mosque e/9,320,407,132,5.6,516,745,220,normal
+636,06-12-23,17:03:00,Jinnah Supermarket f/7,Anum Book & Stationers e/9,412,623,156,5.3,475,687,202,normal
+637,06-12-23,17:04:00,Jinnah Supermarket f/7,Fazaia Inter College Islamabad e/9,327,460,133,5.3,476,688,202,normal
+638,06-12-23,17:05:00,Jinnah Supermarket f/7,PAF Wards Boys Hostel e/9,337,422,135,5.1,490,710,209,normal
+639,06-12-23,17:06:00,Jinnah Supermarket f/7,Air Headquarters Reception e/9,289,360,116,5.6,446,646,189,normal
+640,06-12-23,17:08:00,Jinnah Supermarket f/7,Middlecoat Park e/9,331,397,131,5.5,478,692,203,normal
+641,06-12-23,17:09:00,Jinnah Supermarket f/7,Pakistan Gospel Assemblies Church e/9,460,536,192,9.8,604,872,259,normal
+642,06-12-23,17:10:00,Jinnah Supermarket f/7,CSD (Canteen Store Department e/10,475,552,210,3.4,386,565,163,normal
+643,06-12-23,17:11:00,Jinnah Supermarket f/7,Pakistan Gate e/10,221,321,76,6.3,263,389,108,normal
+644,06-12-23,17:12:00,Jinnah Supermarket f/7,Margalla Greens Golf Club e/8,285,355,114,4.7,193,291,80,normal
+645,06-12-23,17:14:00,Jinnah Supermarket f/7,National Defence University (NDU) e/9,324,401,131,5.2,212,317,86,normal
+646,06-12-23,17:15:00,Jinnah Supermarket f/7,Arif Javed Rao Park e/11,389,256,100,9.8,415,603,175,normal
+647,07-12-23,9:40:00,HOT N SPICE e/11,mezban tandoori islamabad G-11,200,249,91,3.7,263,389,108,normal
+648,07-12-23,9:48:00,HOT N SPICE e/11,Mudan Residence guest house e/11,192,240,77,4.3,282,416,116,normal
+649,07-12-23,9:50:00,HOT N SPICE e/11, faiz ahmad faiz metro station h/8,292,364,131,8.6,415,602,175,normal
+650,07-12-23,9:52:00,HOT N SPICE e/11,"PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",247,308,107,7.9,396,576,167,normal
+651,07-12-23,9:54:00,HOT N SPICE e/11,Margalla Park f/8,234,291,100,5.4,313,406,130,normal
+652,07-12-23,9:56:00,HOT N SPICE e/11,Maryam Girls Hostel i-14/3,484,604,222,14.2,1116,1589,486,normal
+653,07-12-23,9:57:00,HOT N SPICE e/11,"BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD I-9/1 I 9/1 I-9, Islamabad",394,491,182,12.3,531,768,227,normal
+654,07-12-23,10:05:00,Margalla Park f/6,Ayub Market f7 markaz,138,172,60,1.6,193,291,80,normal
+655,07-12-23,10:11:00,Margalla Park f/6,"PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",188,235,75,4.1,250,371,102,normal
+656,07-12-23,10:15:00,Margalla Park f/6,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",456,568,224,15.4,689,988,297,normal
+657,07-12-23,10:18:00,Margalla Park f/6,cheezious i-8,305,381,142,8.9,443,642,188,normal
+658,07-12-23,10:20:00,Margalla Park f/6,centaurus mall f/8,177,220,73,3.5,244,361,100,normal
+659,07-12-23,10:55:00,Margalla Park f/6,mezban tandoori islamabad G-11,316,394,144,8.8,430,625,182,normal
+660,07-12-23,10:59:00,Margalla Park f/6,new boys hostel e/11,604,753,290,19.6,819,1172,354,normal
+661,07-12-23,10:00:00,Margalla Park f/6,"BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD I-9/1 I 9/1 I-9, Islamabad",350,437,160,9.8,519,749,221,normal
+662,07-12-23,11:35:00,Margalla Park f/6,mezban tandoori islamabad G-11,288,350,117,5.7,323,476,135,normal
+663,07-12-23,11:29:00,Auracael Private limited Block A Sector B-17,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),733,913,367,23.4,917,1310,398,normal
+664,07-12-23,11:32:00,AL VEER GUEST HOUSE & APARTMENTS e/11,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",378,471,163,8.5,415,606,175,normal
+665,07-12-23,11:26:00,AL VEER GUEST HOUSE & APARTMENTS e/11,cheezious i-8,463,646,222,14.4,598,862,256,normal
+666,07-12-23,11:24:00,AL VEER GUEST HOUSE & APARTMENTS e/11,Ayub Market f7 markaz,325,405,146,8.4,408,594,172,normal
+667,07-12-23,11:21:00,AL VEER GUEST HOUSE & APARTMENTS e/11, faiz ahmad faiz metro station h/8,389,582,190,11.4,509,727,214,normal
+668,07-12-23,11:15:00,AL VEER GUEST HOUSE & APARTMENTS e/11,Jamia Masjid Qurtubah e/11,170,238,66,0.95,178,290,80,normal
+669,07-12-23,11:09:00,AL VEER GUEST HOUSE & APARTMENTS e/11,new boys hostel e/11,550,686,279,14.3,595,861,255,normal
+670,07-12-23,11:39:00,AL VEER GUEST HOUSE & APARTMENTS e/11,"BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD I-9/1 I 9/1 I-9, Islamabad",525,639,210,15.3,626,902,269,normal
+671,07-12-23,11:43:00,Fazaia Teachers Training Institute e/9,"BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD I-9/1 I 9/1 I-9, Islamabad",369,460,155,9.7,449,653,191,normal
+672,07-12-23,11:46:00,Fazaia Teachers Training Institute e/9,Delight Afghani burger and french fries G-9/4,243,303,102,4.7,294,434,122,normal
+673,07-12-23,11:49:00,Fazaia Teachers Training Institute e/9,Jamia Masjid Qurtubah e/11,263,328,112,7,364,532,153,normal
+674,07-12-23,11:52:00,Fazaia Teachers Training Institute e/9, faiz ahmad faiz metro station h/8,260,325,114,5.8,326,478,136,normal
+675,07-12-23,11:58:00,Auracael Private limited Block A Sector B-17,Faisal Masjid e/8,840,1300,421,27.8,1056,1506,459,normal
+676,07-12-23,12:00:00,Auracael Private limited Block A Sector B-17,Sir Syed CASE Institute of Technology b/17,159,220,62,0.5,190,290,80,normal
+677,07-12-23,12:08:00,Fazaia Teachers Training Institute e/9,cheezious i-8,342,426,154,8.8,421,612,179,normal
+678,07-12-23,12:12:00,Fazaia Teachers Training Institute e/9,"PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",207,259,88,11.4,310,455,129,normal
+679,07-12-23,12:14:00,Fazaia Teachers Training Institute e/9,Bismillah Plaza I-10 markaz,390,486,178,10.5,475,689,202,normal
+680,07-12-23,12:18:00,Fazaia Teachers Training Institute e/9,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",472,589,224,14.6,629,905,270,normal
+681,07-12-23,12:25:00,Fazaia Teachers Training Institute e/9,maizban tandoori  g/11,285,366,126,8.2,402,585,270,normal
+682,07-12-23,12:29:00,Fazaia Teachers Training Institute e/9,centaurus mall f/8,242,303,105,4.7,288,425,119,normal
+683,07-12-23,12:35:00,Fazaia Teachers Training Institute e/9,chamman metro bus station G-9/4,216,270,91,4.2,276,407,114,normal
+684,07-12-23,12:52:00,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",Delight Afghani burger and french fries G-9/4,156,195,62,1.1,178,290,80,normal
+685,07-12-23,12:54:00,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",Ayub Market f7 markaz,252,315,106,5.5,320,470,133,normal
+686,07-12-23,12:55:00,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad", faiz ahmad faiz metro station  h/8,182,228,73,3,238,353,97,normal
+687,07-12-23,12:57:00,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",Jamia Masjid Qurtubah e/11,344,429,149,8.8,421,613,178,normal
+688,07-12-23,12:59:00,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",cheezious i-8,265,331,114,6,332,487,139,normal
+689,07-12-23,13:00:00,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",sunday bazar  g/11,198,247,79,3.6,257,380,105,normal
+690,07-12-23,13:01:00,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",Margalla Park f/8,259,323,109,7.8,389,566,164,normal
+691,07-12-23,13:03:00,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",Kashmir Residency Boys Hostel e/11,356,444,254,9,427,622,181,normal
+692,07-12-23,13:05:00,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",HOT N SPICE e/11,258,322,107,5.9,329,484,137,normal
+693,07-12-23,13:10:00,Kashmir Residency Boys Hostel e/11,HOT N SPICE e/11,211,350,86,5.2,307,452,128,normal
+694,07-12-23,13:08:00,Auracael Private limited Block A Sector B-17,Anabia's garden E11/2,580,956,295,17.8,743,1064,321,normal
+695,07-12-23,13:10:00,Auracael Private limited Block A Sector B-17,Luxury boys hostel E/11,611,850,304,20.1,816,1167,353,normal
+696,07-12-23,13:15:00,Auracael Private limited Block A Sector B-17,Royal apartment e 11,745,864,318,21.9,873,1248,378,normal
+697,07-12-23,13:16:00,Auracael Private limited Block A Sector B-17,Obortunity consulting e/11,696,857,317,22.2,879,1257,381,normal
+698,07-12-23,13:24:00,Auracael Private limited Block A Sector B-17,Madina Dry Cleaners & Steam Laundry f/10,1042,1300,497,40.1,1941,2750,851,normal
+667,07-12-23,13:24:00,Auracael Private limited Block A Sector B-17,Harveys guest house e/11,640,797,316,22.8,876,1253,380,normal
+741,07-12-23,13:24:00,Kashmir Residency Boys Hostel e/11,Jamia Masjid Qurtubah e/11,142,261,60,0.6,178,290,80,normal
+742,07-12-23,13:26:00,Kashmir Residency Boys Hostel e/11,Ayub Market f7 markaz,336,498,149,8.5,408,595,172,normal
+668,07-12-23,13:26:00,Auracael Private limited Block A Sector B-17,Aliyan pet clinic e/11,625,779,312,21.6,873,1248,378,normal
+743,07-12-23,13:27:00,Kashmir Residency Boys Hostel e/11, faiz ahmad faiz metro station h/8,396,578,182,11.4,503,728,214,normal
+744,07-12-23,13:29:00,Kashmir Residency Boys Hostel e/11,Delight Afghani burger and french fries G-9/4,374,587,163,10.1,446,648,189,normal
+669,07-12-23,13:31:00,Auracael Private limited Block A Sector B-17,awan guest house  e/11,686,855,317,21.5,870,1244,377,normal
+745,07-12-23,13:32:00,Kashmir Residency Boys Hostel e/11,cheezious i-8,522,614,245,14.4,598,863,256,normal
+670,07-12-23,13:32:00,Sukoon vista Block A Sector B-17,Anabias garden E11/4,652,901,289,17.5,696,997,300,normal
+746,07-12-23,13:33:00,Kashmir Residency Boys Hostel e/11,sunday bazar  g/11,290,510,124,8.2,402,586,170,normal
+671,07-12-23,13:34:00,Sukoon vista Block A Sector B-17,Royal Apartment e 11,664,998,298,21.6,825,1181,357,normal
+747,07-12-23,13:35:00,Kashmir Residency Boys Hostel e/11,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",347,567,152,8.8,421,613,178,normal
+672,07-12-23,13:36:00,Sukoon vista Block A Sector B-17,Black Rock Cafe e/11,665,987,296,21,803,1154,349,normal
+748,07-12-23,13:37:00,Kashmir Residency Boys Hostel e/11,Margalla Park f/8,376,502,1337,7.8,389,568,164,normal
+673,07-12-23,13:37:00,Sukoon vista Block A Sector B-17,Apple Group of Schools Islamabad e/11,608,757,305,20.2,797,1141,345,normal
+674,07-12-23,13:39:00,Sukoon vista Block A Sector B-17,Sir Syed CASE Institute of Technology b/17,150,187,60,2.1,209,313,84,normal
+675,07-12-23,13:40:00,Sukoon vista Block A Sector B-17,Metro Consulting Grid Pvt Ltd. e/11,575,717,289,18.3,721,1033,311,normal
+676,07-12-23,13:41:00,Sukoon vista Block A Sector B-17,Lazzat spa Islamabad e/11,593,740,297,21.5,822,1176,356,normal
+677,07-12-23,13:41:00,Sukoon vista Block A Sector B-17,Jamia Masjid Qurtubah e/11,593,739,298,20.2,781,1118,338,normal
+678,07-12-23,13:43:00,Fmc Customer Faciliation Centre Block A sector B-17,AJWA RANT A CAR e/11,745,929,374,20.6,800,1000,450,normal
+679,07-12-23,13:45:00,Fmc Customer Faciliation Centre Block A sector B-17,"Autism Resource Centre, Islamabad e/11",703,893,376,20.3,790,980,450,normal
+680,07-12-23,13:47:00,Fmc Customer Faciliation Centre Block A sector B-17,The City School E-11 Campus,701,874,375,20.1,790,980,450,normal
+681,07-12-23,13:49:00,Fmc Customer Faciliation Centre Block A sector B-17,MARGALLA Hills Residency Islamabad E-11/3,699,872,376,20.2,800,1000,460,normal
+682,07-12-23,13:50:00,Fmc Customer Faciliation Centre Block A sector B-17,Apple Group of Schools Islamabad e/11,734,963,373,21.3,780,995,465,normal
+683,07-12-23,13:52:00,Fmc Customer Faciliation Centre Block A sector B-17,Flexi dreams hospitality services Islamabad e/11 ,717,967,382,21,815,985,450,normal
+684,07-12-23,13:54:00,Fmc Customer Faciliation Centre Block A sector B-17,IBH BOYS HOSTEL e/11,757,921,375,21,800,985,450,normal
+685,07-12-23,13:56:00,Fmc Customer Faciliation Centre Block A sector B-17,Premier cottage Inn e/11,769,915,379,20.9,850,960,430,normal
+686,07-12-23,13:59:00,Fmc Customer Faciliation Centre Block A sector B-17,Unicres Pvt Ltd e/11,717,894,372,20.9,780,950,420,normal
+687,07-12-23,14:02:00,Fmc Customer Faciliation Centre Block A sector B-17,Backpackers Hostel Islamabad e/11,723,902,348,23.7,790,960,400,normal
+688,07-12-23,14:15:00,Burger Lab-Mellow Mal Block A B17,Luxury Apartment Hotel & Guest House e/11,587,731,290,21,650,790,340,normal
+689,07-12-23,14:17:00,Burger Lab-Mellow Mal Block A B17,Canadian Inn Hotel Islamabad e/11,581,724,289,19.2,640,800,350,normal
+690,07-12-23,14:20:00,Burger Lab-Mellow Mal Block A B17,Family lodge e/11,638,795,319,24.2,700,850,390,normal
+691,07-12-23,14:22:00,Burger Lab-Mellow Mal Block A B17,Fitness Zone by The NAK e/11,594,740,297,19.9,650,810,348,normal
+692,07-12-23,14:25:00,Burger Lab-Mellow Mal Block A B17,Arif Javed Rao Park e/11,594,740,297,19.7,650,810,348,normal
+693,07-12-23,14:26:00,Burger Lab-Mellow Mal Block A B17,Najeeb Pharmacy E-11/3,598,745,301,20.4,660,790,350,normal
+649,07-12-23,14:27:00,Margalla Filling Station Total PARCO Petrol Pump Block A Sector B-17,Chattha’s  F10,702,980,276,23.8,761,1132,342,normal
+694,07-12-23,14:28:00,Burger Lab-Mellow Mal Block A B17,GLLC Languages Institute Islamabad e/11,587,731,295,20.6,650,805,350,normal
+695,07-12-23,14:30:00,Burger Lab-Mellow Mal Block A B17,BABA JEE GUEST HOUSE e/11,594,741,299,20.3,670,800,370,normal
+696,07-12-23,14:32:00,Burger Lab-Mellow Mal Block A B17,INDUS HERITAGE CLUB e/11,587,732,295,19.9,689,789,365,normal
+697,07-12-23,14:34:00,Burger Lab-Mellow Mal Block A B17,Mudan Residence guest house e/11,595,742,299,20.3,698,800,370,normal
+650,07-12-23,14:48:00,Margalla Filling Station Total PARCO Petrol Pump Block A Sector B-17,Tandoori Restaurant  F10,597,746,288,27.4,806,1154,349,normal
+651,07-12-23,14:50:00,Margalla Filling Station Total PARCO Petrol Pump Block A Sector B-17,Khabbay Ki Sajji  F10,610,762,296,24.4,803,1149,347,normal
+652,07-12-23,14:55:00,Margalla Filling Station Total PARCO Petrol Pump Block A Sector B-17,Butt Karahi F-10,610,762,296,24.4,803,1149,347,normal
+653,07-12-23,14:58:00,Margalla Filling Station Total PARCO Petrol Pump Block A Sector B-17,italian oven f-10,657,820,297,24.1,803,1149,347,normal
+654,07-12-23,15:00:00,Margalla Filling Station Total PARCO Petrol Pump Block A Sector B-17,Orient Restaurant  F10,653,814,299,24.3,829,1185,359,normal
+655,07-12-23,15:14:00,Margalla Filling Station Total PARCO Petrol Pump Block A Sector B-17,Hot N Chilli  F10,615,987,298,24.4,806,1154,349,normal
+656,07-12-23,15:49:00,Margalla Filling Station Total PARCO Petrol Pump Block A Sector B-17,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),604,802,300,24.1,791,1132,342,normal
+657,07-12-23,15:59:00,Auracael Private limited Block A Sector B-17,Orient Restaurant  F10,726,904,361,24.5,917,1310,398,normal
+658,07-12-23,16:22:00,Auracael Private limited Block A Sector B-17,Hot N Chilli  F10,730,910,361,23.8,895,1279,388,normal
+750,07-12-23,18:10:00,Fazaia Inter College Islamabad e/9,HOT N SPICE e/11,246,366,99,5.3,310,456,129,normal
+751,07-12-23,18:26:00,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",chamman metro bus station G-9/4,163,203,67,2.1,209,313,84,normal
+752,07-12-23,18:13:00,Fazaia Inter College Islamabad e/9,italian oven f-10,221,336,113,5,301,443,125,normal
+753,07-12-23,18:15:00,Fazaia Inter College Islamabad e/9,Delight Afghani burger and french fries G-9/4,317,398,136,5.1,304,448,126,normal
+754,07-12-23,18:16:00,Fazaia Inter College Islamabad e/9,the centaurus mall f/8,279,318,151,5,301,443,125,normal
+755,07-12-23,18:18:00,Fazaia Inter College Islamabad e/9,Margalla Park f/8,275,298,109,2.5,222,331,90,normal
+756,07-12-23,18:20:00,Fazaia Inter College Islamabad e/9,PAF Complex Islamabad - AHQ e/9,227,265,92,1.4,190,290,80,normal
+757,07-12-23,18:21:00,Fazaia Inter College Islamabad e/9,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",383,432,134,5.9,329,484,137,normal
+758,07-12-23,18:21:00,Fazaia Inter College Islamabad e/9,Kashmir Residency Boys Hostel e/11,355,491,164,8.1,399,582,168,normal
+759,07-12-23,18:23:00,Fazaia Inter College Islamabad e/9,Orient Restaurant  F10,311,398,114,5,301,443,125,normal
+760,07-12-23,18:24:00,Fazaia Inter College Islamabad e/9,Butt Karahi F-10,375,425,86,4.7,291,429,121,normal
+761,07-12-23,18:25:00,Fazaia Inter College Islamabad e/9,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",823,808,314,15.7,639,920,275,normal
+762,07-12-23,18:27:00,Kashmir Residency Boys Hostel e/11,Orient Restaurant  F10,269,336,112,6.4,345,506,144,normal
+763,07-12-23,18:31:00,Faisal Masjid e/8,Hot N Chilli  F10,301,455,129,6.4,361,529,151,normal
+764,07-12-23,18:30:00,Faisal Masjid e/8,Orient Restaurant  F10,286,498,128,7,380,555,160,normal
+765,07-12-23,18:33:00,Faisal Masjid e/8,italian oven f-10,289,429,147,6.9,377,550,158,normal
+766,07-12-23,18:35:00,Faisal Masjid e/8,Butt Karahi F-10,287,438,129,6.9,367,537,154,normal
+767,07-12-23,18:36:00,Faisal Masjid e/8,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),329,413,119,6.3,355,520,149,normal
+768,07-12-23,18:37:00,Faisal Masjid e/8,cheezious i-8,405,435,153,9.8,468,679,199,normal
+769,07-12-23,18:38:00,Faisal Masjid e/8,centaurus mall f/8,261,331,84,3.2,263,389,108,normal
+770,07-12-23,18:40:00,Faisal Masjid e/8,marryam girls hostel g/10,755,879,319,21.9,861,1219,368,normal
+771,07-12-23,18:41:00,Faisal Masjid e/8,new boys hostel i/14,654,854,312,21.7,844,1211,366,normal
+772,07-12-23,18:43:00,Faisal Masjid e/8,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",335,449,141,8.2,418,607,177,normal
+773,07-12-23,18:49:00,Sir Syed CASE Institute of Technology b/17 ,new boys hostel i/14,659,821,532,26.1,1315,1876,574,normal
+774,07-12-23,18:48:00,Sir Syed CASE Institute of Technology b/17 ,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",740,922,387,26.1,990,1414,430,normal
+775,07-12-23,18:53:00,Sir Syed CASE Institute of Technology b/17,"Rumi Hostel H-12, Islamabad",664,828,325,26,1211,1726,528,normal
+776,07-12-23,18:59:00,Sir Syed CASE Institute of Technology b/17,Orient Restaurant  F10,720,897,355,24.4,914,1306,396,normal
+777,07-12-23,19:00:00,Sir Syed CASE Institute of Technology b/17,italian oven f-10,717,893,355,23.6,889,1271,385,normal
+778,07-12-23,19:02:00,Sir Syed CASE Institute of Technology b/17,Butt Karahi F-10,729,909,361,24.1,904,1293,392,normal
+779,07-12-23,19:03:00,Sir Syed CASE Institute of Technology b/17,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),714,890,355,23.3,876,1253,380,normal
+780,07-12-23,19:06:00,Sir Syed CASE Institute of Technology b/17,Kashmir Residency Boys Hostel e/11,593,739,289,21.5,882,1177,356,normal
+781,07-12-23,19:07:00,Sir Syed CASE Institute of Technology b/17,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",566,705,274,17.9,1258,1792,549,normal
+782,07-12-23,19:09:00,Sir Syed CASE Institute of Technology b/17,G-11 sunday bazar,685,854,387,23.4,971,1387,422,normal
+783,07-12-23,19:14:00,Margalla Greens Golf Club e/8,centaurus mall f/8,207,306,100,4.3,279,412,115,normal
+784,07-12-23,19:16:00,Margalla Greens Golf Club e/8,marryam girls hostel g/10,696,858,325,23.2,876,1254,380,normal
+785,07-12-23,19:18:00,Margalla Greens Golf Club e/8,new boys hostel i/14,759,908,342,23,870,1245,377,normal
+786,07-12-23,19:20:00,Margalla Greens Golf Club e/8,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",387,489,142,6.7,355,519,149,normal
+787,07-12-23,19:22:00,Margalla Greens Golf Club e/8,air uiversity e/8,217,338,70,2.4,219,326,88,normal
+788,07-12-23,19:29:00,Margalla Greens Golf Club e/8,"IJP Metro Bus Station I.J.P. Road, I 8/1 I-8, Islamabad",467,610,181,9.8,452,656,198,normal
+789,07-12-23,19:35:00,Margalla Greens Golf Club e/8,Orient Restaurant  F10,326,432,116,5.9,329,483,137,normal
+790,07-12-23,19:39:00,Margalla Greens Golf Club e/8,italian oven f-10,320,305,117,5.8,326,478,136,normal
+791,07-12-23,19:40:00,Margalla Greens Golf Club e/8,"PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",294,369,100,5,301,443,125,normal
+792,07-12-23,19:41:00,Margalla Greens Golf Club e/8,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),331,416,118,5.3,304,447,126,normal
+793,07-12-23,19:43:00,Margalla Greens Golf Club e/8,"Rumi Hostel H-12, Islamabad",547,920,261,17.2,689,990,297,normal
+794,07-12-23,19:11:00,Margalla Greens Golf Club e/8,G-11 sunday bazar,430,499,150,9.2,434,630,184,normal
+795,08-12-23,7:57:00,Humera Beauty Parlour E11,Maryam Girls Hostel i-14/3,838,879,252,15,740,1063,319,normal
+796,08-12-23,8:03:00,Humera Beauty Parlour E11,new palace guest house g/9,625,645,160,9.3,424,616,178,normal
+797,08-12-23,10:52:00,Humera Beauty Parlour E11,baiT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,846,855,233,15.3,614,884,263,normal
+798,08-12-23,10:55:00,Humera Beauty Parlour E11,CSD (Canteen Store Department e/10,452,508,91,4.5,272,402,112,normal
+799,08-12-23,10:56:00,Humera Beauty Parlour E11,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",581,677,149,8.8,408,594,72,normal
+800,08-12-23,10:58:00,Humera Beauty Parlour E11,AL VEER GUEST HOUSE & APARTMENTS e/11,331,210,60,0.85,178,290,80,normal
+801,08-12-23,11:00:00,National Defence University (NDU) e/9,AL VEER GUEST HOUSE & APARTMENTS e/11,329,411,147,8.6,415,604,175,normal
+802,08-12-23,11:01:00,National Defence University (NDU) e/9,baiT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,387,482,174,10.3,468,679,199,normal
+803,08-12-23,11:04:00,National Defence University (NDU) e/9,CSD (Canteen Store Department e/10,223,278,93,6.9,272,403,112,normal
+804,08-12-23,11:05:00,National Defence University (NDU) e/9,"Rumi Hostel H-12, Islamabad",451,562,218,14.3,598,862,256,normal
+805,08-12-23,11:07:00,National Defence University (NDU) e/9,new boys hostel i 14,622,776,299,20.1,778,1115,336,normal
+806,08-12-23,11:08:00,National Defence University (NDU) e/9,chamman metro bus station G-9/4,252,314,105,4.7,291,429,121,normal
+807,08-12-23,11:11:00,National Defence University (NDU) e/9,PN Football Ground e/8,153,191,61,1.6,193,291,80,normal
+808,08-12-23,11:12:00,National Defence University (NDU) e/9,Riding Club E-8,149,187,66,1.2,181,290,80,normal
+809,08-12-23,11:13:00,National Defence University (NDU) e/9,Orient Restaurant  F10,231,288,104,5.3,310,456,129,normal
+810,08-12-23,11:14:00,National Defence University (NDU) e/9,italian oven f-10,229,285,103,5.3,310,455,129,normal
+811,08-12-23,11:15:00,National Defence University (NDU) e/9,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",483,602,236,16,648,932,279,normal
+812,08-12-23,11:17:00,National Defence University (NDU) e/9,"IJP Metro Bus Station I.J.P. Road, I 8/1 I-8, Islamabad",336,420,155,9.3,437,634,185,normal
+813,08-12-23,11:19:00,National Defence University (NDU) e/9,"PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",261,326,109,5.7,317,465,132,normal
+814,08-12-23,11:21:00,National Defence University (NDU) e/9,Margalla Park f/8,178,223,70,2.6,225,335,91,normal
+815,08-12-23,11:23:00,PAF Complex Islamabad - AHQ e/9,Margalla Park f/8,177,214,95,2.6,225,335,91,normal
+816,08-12-23,11:24:00,PAF Complex Islamabad - AHQ e/9,air uiversity e/8,145,181,89,1.5,190,290,80,normal
+817,08-12-23,11:25:00,PAF Complex Islamabad - AHQ e/9,centaurus mall f/8,240,299,136,5.1,304,447,126,normal
+818,08-12-23,11:26:00,PAF Complex Islamabad - AHQ e/9,Bismillah Market I-9/4 markaz,320,299,150,8.7,418,607,177,normal
+819,08-12-23,11:28:00,PAF Complex Islamabad - AHQ e/9,"PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",243,316,112,5.7,326,478,136,normal
+820,08-12-23,11:29:00,PAF Complex Islamabad - AHQ e/9,Islamabad railway h/9,334,416,155,8.4,408,595,172,normal
+821,08-12-23,11:30:00,PAF Complex Islamabad - AHQ e/9,Margalla Park f/8,171,214,73,2.6,225,335,91,normal
+822,08-12-23,11:31:00,PAF Complex Islamabad - AHQ e/9,BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,375,467,168,10.2,465,675,198,normal
+823,08-12-23,11:32:00,PAF Complex Islamabad - AHQ e/9,D Watson I-10 Markaz,406,506,215,11.3,500,724,213,normal
+824,08-12-23,11:36:00,PAF Complex Islamabad - AHQ e/9,The comfort lodge f/11,302,377,133,9.3,437,634,185,normal
+825,08-12-23,11:37:00,PAF Complex Islamabad - AHQ e/9,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",476,539,231,15.8,642,923,276,normal
+826,08-12-23,11:38:00,PAF Complex Islamabad - AHQ e/9,Aura Grande Event Complex e/11,213,266,100,6.2,339,495,142,normal
+827,08-12-23,11:55:00,INDUS HERITAGE CLUB e/11,Aura Grande Event Complex e/11,146,210,60,2.2,209,313,84,normal
+828,08-12-23,12:03:00,INDUS HERITAGE CLUB e/11,Dino valley ,837,1043,388,9.3,874,1396,423,normal
+829,08-12-23,12:07:00,INDUS HERITAGE CLUB e/11,The comfort lodge f/11,232,290,98,6,332,487,139,normal
+830,08-12-23,12:09:00,INDUS HERITAGE CLUB e/11,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad ",413,515,186,16,648,933,279,normal
+831,08-12-23,12:10:00,INDUS HERITAGE CLUB e/11,Mudan Residence guest house e/11,141,176,60,0.85,178,290,80,normal
+832,08-12-23,12:11:00,INDUS HERITAGE CLUB e/11,centaurus mall f/8,334,416,154,8.9,437,634,185,normal
+833,08-12-23,12:13:00,INDUS HERITAGE CLUB e/11,chamman metro bus station G-9/4,310,387,139,8.1,399,580,168,normal
+834,08-12-23,12:14:00,INDUS HERITAGE CLUB e/11,Monal Marquee ,154,192,61,1.8,200,299,80,normal
+835,08-12-23,12:18:00,INDUS HERITAGE CLUB e/11,Maryam Girls Hostel i-14/3,535,667,246,18,712,1024,307,normal
+836,08-12-23,12:20:00,INDUS HERITAGE CLUB e/11,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",302,377,134,7.4,377,550,158,normal
+837,09-12-23,11:10:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad",Orient Restaurant  F10,362,533,166,9.7,449,652,191,normal
+838,09-12-23,11:15:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad",italian oven f-10,372,484,166,9.7,449,652,191,normal
+839,09-12-23,11:18:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad","Shifa Football Ground Sahibzada Abdul Qayyum Road, Sector I-8/2 H 8/4 I-8, Islamaba",364,454,169,12.2,525,758,224,normal
+840,09-12-23,11:19:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad",Faiz Ahmed Faiz Metro bus station H-8,328,409,151,10.5,234,686,202,normal
+841,09-12-23,11:22:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad","Faizabad Bus Station Karnal Sher Khan Shaheed Road, Faizabad I 8/4 I-8, Islamabad",423,527,197,11.5,642,923,276,normal
+842,09-12-23,11:23:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad","Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",350,453,158,10,459,665,195,normal
+843,09-12-23,11:27:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad",cheezious i-8,396,513,194,10,469,667,195,normal
+844,09-12-23,11:29:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad",maizban tandoori G-11,323,420,142,7.2,370,541,156,normal
+845,09-12-23,11:32:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad","Tehzeeb Bakers I-8 Markaz I 8 Markaz I-8, Islamabad",385,487,168,10.1,462,412,196,normal
+846,09-12-23,11:36:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad",chamman metro bus station G-9/4,371,477,80,9.6,446,647,105,normal
+847,09-12-23,11:46:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad",The comfort lodge f/11,363,453,150,9.4,440,639,186,normal
+848,09-12-23,11:51:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad","Rumi Hostel H-12, Islamabad",285,356,140,5.5,320,470,133,normal
+849,09-12-23,11:53:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad",new boys hostel  i-14/3,454,620,229,14.1,588,849,252,normal
+850,09-12-23,11:55:00,"International Islamic University Islamabad (IIUI) Sector H-10, Islamabad",baiT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,278,400,143,7.1,367,537,154,normal
+851,10-12-23,12:12:00,Harveys Guest House E-11,Dino Park E-7,487,612,192,11,494,715,210,normal
+852,10-12-23,12:13:00,Harveys Guest House E-11,maizban tandoori G-11,349,420,133,9.2,348,511,149,normal
+853,10-12-23,12:15:00,Harveys Guest House E-11,Mishi Maan Beauty Parlour e/11,155,195,85,1,178,290,80,normal
+854,10-12-23,12:18:00,Harveys Guest House E-11,cheezious i-8,567,720,257,14.8,610,880,262,normal
+855,10-12-23,12:19:00,Harveys Guest House E-11,Orient Restaurant  F10,348,418,149,6.8,358,523,150,normal
+856,10-12-23,12:20:00,Harveys Guest House E-11,itwar bazar H-9,561,668,233,8.6,519,751,221,normal
+857,10-12-23,12:22:00,Harveys Guest House E-11,CSD (Canteen Store Department e/10,334,405,98,4.8,298,438,123,normal
+858,10-12-23,12:23:00,Harveys Guest House E-11,Backpackers Hostel Islamabad  e/11,267,326,100,2.6,250,372,102,normal
+859,10-12-23,12:25:00,Harveys Guest House E-11,Aura Grande Event Complex e/11,292,305,80,3.3,244,362,100,normal
+860,10-12-23,12:27:00,Harveys Guest House E-11,rawal king cricket i-11/1,858,873,244,17,680,978,293,normal
+861,10-12-23,12:31:00,Harveys Guest House E-11,"Tehzeeb Bakers I-8 Markaz I 8 Markaz I-8, Islamabad",822,858,237,14.8,610,880,262,normal
+862,10-12-23,12:32:00,Harveys Guest House E-11,"IJP Metro Bus Station I.J.P. Road, I 8/1 I-8, Islamabad",792,811,226,14.6,604,870,259,normal
+863,10-12-23,12:34:00,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",chamman metro bus station G-9/4,596,648,169,9.8,452,657,192,normal
+864,22-12-23,20:32:00,Shifa International Hospital h/8,Orient Restaurant  F10,190,280,80,8,234,348,96,normal
+865,22-12-23,20:34:00,Shifa International Hospital h/8,italian oven f-10,422,420,162,8.1,234,348,96,normal
+866,22-12-23,20:36:00,Shifa International Hospital h/8,Butt Karahi F-10,392,413,156,7.9,225,335,92,normal
+867,22-12-23,20:39:00,Shifa International Hospital h/8,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),416,429,199,8.1,243,361,100,normal
+868,22-12-23,20:41:00,Shifa International Hospital h/8,cheezious i-8,225,243,75,1.3,367,536,155,normal
+869,22-12-23,20:43:00,Shifa International Hospital h/8,centaurus mall f/8,386,425,165,6.5,355,518,150,normal
+870,22-12-23,20:46:00,Shifa International Hospital h/8,marryam girls hostel g/10,170,255,70,7.7,204,305,82,normal
+871,22-12-23,20:49:00,Shifa International Hospital h/8,new boys hostel i/14,120,209,60,18,171,278,77,normal
+872,22-12-23,20:50:00,Shifa International Hospital h/8,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",330,352,120,4.7,204,304,82,normal
+873,22-12-23,20:53:00,Shifa International Hospital h/8,new boys hostel i/14,120,209,60,18,507,733,217,normal
+874,22-12-23,20:55:00,Shifa International Hospital h/8,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",330,352,120,4.7,204,304,82,normal
+875,22-12-23,20:57:00,Shifa International Hospital h/8,"Rumi Hostel H-12, Islamabad",387,521,132,14,404,587,171,normal
+876,22-12-23,21:00:00,Shifa International Hospital h/8,Orient Restaurant  F10,190,280,80,8,234,348,96,normal
+877,22-12-23,21:02:00,Shifa International Hospital h/8,italian oven f-10,422,420,162,8.1,234,348,96,normal
+878,22-12-23,21:09:00,Shifa International Hospital h/8,Butt Karahi F-10,392,413,156,7.9,225,335,92,normal
+879,22-12-23,21:12:00,Shifa International Hospital h/8,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),416,429,199,8.1,243,361,100,normal
+880,22-12-23,21:17:00,Shifa International Hospital h/8,Kashmir Residency Boys Hostel e/11,481,555,235,13,410,597,174,normal
+881,22-12-23,21:20:00,Shifa International Hospital h/8,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",390,598,123,7.7,452,654,193,normal
+882,22-12-23,21:26:00,Shifa International Hospital h/8,G-11 sunday bazar,436,417,179,7.5,198,295,80,normal
+883,22-12-23,21:29:00,Shifa International Hospital h/8,centaurus mall f/8,309,352,140,6.5,355,518,150,normal
+884,22-12-23,21:33:00,Shifa International Hospital h/8,marryam girls hostel g/10,170,255,70,7.7,204,305,82,normal
+885,22-12-23,21:38:00,Shifa International Hospital h/8,new boys hostel i/14,120,209,60,18,171,278,77,normal
+886,22-12-23,21:40:00,Shifa International Hospital h/8,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",324,431,120,4.7,549,791,236,normal
+887,22-12-23,21:45:00,Shifa International Hospital h/8,air uiversity e/8,389,920,154,8.1,689,988,298,normal
+888,22-12-23,21:50:00,Shifa International Hospital h/8,"IJP Metro Bus Station I.J.P. Road, I 8/1 I-8, Islamabad",254,970,86,3.6,701,1004,304,normal
+889,22-12-23,21:55:00,Shifa International Hospital h/8,Orient Restaurant  F10,449,802,163,8,592,852,255,normal
+890,22-12-23,22:00:00,Shifa International Hospital h/8,italian oven f-10,430,416,159,8.1,592,852,255,normal
+891,22-12-23,22:05:00,Shifa International Hospital h/8,"PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",390,388,170,6.1,698,1000,302,normal
+892,22-12-23,22:10:00,Shifa International Hospital h/8,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),450,429,196,8.1,601,865,259,normal
+893,22-12-23,22:15:00,Shifa International Hospital h/8,"Rumi Hostel H-12, Islamabad",537,490,192,14,552,797,238,normal
+894,22-12-23,22:20:00,Shifa International Hospital h/8,G-11 sunday bazar,431,417,189,7.5,473,685,203,normal
+895,22-12-23,22:25:00,Shifa International Hospital h/8,Maryam Girls Hostel i-14/3,657,587,242,17,555,800,239,normal
+896,22-12-23,22:30:00,Shifa International Hospital h/8,new palace guest house g/9,409,396,145,4.8,210,313,85,normal
+897,22-12-23,22:33:00,Shifa International Hospital h/8,baiT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,384,380,133,4.1,319,467,134,normal
+898,22-12-23,22:39:00,Shifa International Hospital h/8,CSD (Canteen Store Department e/10,509,456,160,8.4,283,417,117,normal
+899,22-12-23,22:41:00,Shifa International Hospital h/8,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",410,397,120,4.7,204,304,82,normal
+900,22-12-23,22:43:00,Shifa International Hospital h/8,AL VEER GUEST HOUSE & APARTMENTS e/11,320,520,103,13,398,581,169,normal
+901,22-12-23,22:45:00,Savour Foods g/6,AL VEER GUEST HOUSE & APARTMENTS e/11,429,670,160,14,492,711,211,normal
+902,22-12-23,22:48:00,Savour Foods g/6,baiT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,390,578,120,14,440,637,188,normal
+903,22-12-23,22:50:00,Savour Foods g/6,CSD (Canteen Store Department e/10,300,478,100,6.8,358,522,151,normal
+904,22-12-23,22:53:00,Savour Foods g/6,"Rumi Hostel H-12, Islamabad",502,750,203,17,561,808,242,normal
+905,22-12-23,22:57:00,Savour Foods g/6,new boys hostel i 14,670,900,289,21,734,1052,319,normal
+906,22-12-23,22:59:00,Savour Foods g/6,chamman metro bus station G-9/4,209,323,90,7.6,267,394,111,normal
+907,22-12-23,23:01:00,Savour Foods g/6,PN Football Ground e/8,298,423,106,7.3,337,493,142,normal
+908,22-12-23,23:03:00,Savour Foods g/6,Riding Club E-8,278,421,98,7.8,322,471,135,normal
+909,22-12-23,23:07:00,Savour Foods g/6,Orient Restaurant  F10,278,398,90,9.2,313,458,131,normal
+910,22-12-23,23:09:00,Savour Foods g/6,italian oven f-10,278,398,90,9.3,313,458,131,normal
+911,22-12-23,23:11:00,Savour Foods g/6,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",578,812,208,17,607,871,262,normal
+912,22-12-23,23:13:00,Savour Foods g/6,"IJP Metro Bus Station I.J.P. Road, I 8/1 I-8, Islamabad",379,523,112,11,407,590,173,normal
+913,22-12-23,23:17:00,Savour Foods g/6,"PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",145,209,70,7.6,189,282,77,normal
+914,22-12-23,23:19:00,Savour Foods g/6,Margalla Park f/8,190,412,133,8.8,249,368,103,normal
+915,22-12-23,23:23:00,Savour Foods g/6,Margalla Park f/8,198,417,133,8.8,249,368,103,normal
+916,22-12-23,23:26:00,Savour Foods g/6,air uiversity e/8,210,447,153,9.3,292,428,122,normal
+917,22-12-23,23:29:00,Savour Foods g/6,centaurus mall f/8,134,200,70,4.9,186,279,77,normal
+918,22-12-23,23:31:00,Savour Foods g/6,Bismillah Market I-9/4 markaz,334,502,130,10,395,573,167,normal
+919,22-12-23,23:36:00,Savour Foods g/6,"PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",143,221,70,7.6,189,282,77,normal
+920,22-12-23,23:40:00,Savour Foods g/6,Islamabad railway h/9,345,521,120,9.9,386,561,163,normal
+921,22-12-23,23:42:00,Savour Foods g/6,Margalla Park f/8,210,409,133,8.8,249,368,103,normal
+922,22-12-23,23:43:00,Savour Foods g/6,BAIT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,404,590,170,12,440,637,188,normal
+923,22-12-23,23:44:00,Savour Foods g/6,D Watson I-10 Markaz,390,600,169,13,440,637,188,normal
+924,22-12-23,23:45:00,Savour Foods g/6,The comfort lodge f/11,380,530,140,12,413,599,176,normal
+925,22-12-23,23:49:00,Savour Foods g/6,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",550,823,221,17,607,871,262,normal
+926,22-12-23,23:50:00,Savour Foods g/6,Aura Grande Event Complex e/11,390,580,150,13,425,616,181,normal
+927,22-12-23,23:51:00,Savour Foods g/6,Aura Grande Event Complex e/11,390,580,150,13,425,616,181,normal
+928,22-12-23,23:51:00,Savour Foods g/6,Dino valley ,700,900,289,21,746,1073,324,normal
+929,22-12-23,23:52:00,Savour Foods g/6,The comfort lodge f/11,380,543,132,12,413,599,176,normal
+930,22-12-23,23:52:00,Savour Foods g/6,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad ",550,823,221,17,607,871,262,normal
+931,22-12-23,23:53:00,Savour Foods g/6,Mudan Residence guest house e/11,390,609,167,13,452,655,193,normal
+932,22-12-23,23:53:00,Savour Foods g/6,centaurus mall f/8,143,221,70,4.9,189,283,77,normal
+933,22-12-23,23:54:00,Savour Foods g/6,chamman metro bus station G-9/4,232,338,90,7.6,267,394,111,normal
+934,22-12-23,23:54:00,Savour Foods g/6,Monal Marquee ,436,574,190,13,443,641,189,normal
+935,22-12-23,23:54:00,Savour Foods g/6,Maryam Girls Hostel i-14/3,698,987,360,11,719,1030,312,normal
+936,22-12-23,23:55:00,Savour Foods g/6,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",287,432,100,8,316,463,132,normal
+937,22-12-23,23:55:00,Savour Foods g/6,Orient Restaurant  F10,458,390,161,9.2,313,458,131,normal
+938,22-12-23,23:55:00,Savour Foods g/6,italian oven f-10,430,398,161,9.3,313,458,131,normal
+939,22-12-23,23:56:00,Savour Foods g/6,"Shifa Football Ground Sahibzada Abdul Qayyum Road, Sector I-8/2 H 8/4 I-8, Islamaba",408,410,146,8.2,319,466,134,normal
+940,22-12-23,23:56:00,Savour Foods g/6,Faiz Ahmed Faiz Metro bus station H-8,290,417,149,9,322,470,135,normal
+941,22-12-23,23:56:00,Savour Foods g/6,"Faizabad Bus Station Karnal Sher Khan Shaheed Road, Faizabad I 8/4 I-8, Islamabad",432,602,149,9.2,449,650,192,normal
+942,22-12-23,23:57:00,Savour Foods g/6,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",583,812,70,17,607,871,262,normal
+943,22-12-23,23:57:00,Savour Foods g/6,cheezious i-8,356,502,173,8.8,373,544,158,normal
+944,22-12-23,23:57:00,Savour Foods g/6,maizban tandoori G-11,390,550,189,12,410,595,174,normal
+945,22-12-23,23:58:00,Savour Foods g/6,"Tehzeeb Bakers I-8 Markaz I 8 Markaz I-8, Islamabad",529,480,163,9.1,349,510,147,normal
+946,22-12-23,23:58:00,Savour Foods g/6,chamman metro bus station G-9/4,481,360,145,7.6,267,394,111,normal
+947,22-12-23,23:58:00,Savour Foods g/6,The comfort lodge f/11,390,550,191,15,413,599,176,normal
+948,22-12-23,23:59:00,Savour Foods g/6,"Rumi Hostel H-12, Islamabad",682,653,210,17,561,808,242,normal
+949,22-12-23,23:59:00,Savour Foods g/6,new boys hostel  i-14/3,703,980,298,21,734,1052,319,normal
+950,23-12-23,0:02:00,Savour Foods g/6,baiT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,607,600,190,12,440,637,188,normal
+951,23-12-23,0:04:00, Islamabad Model College for Boys  f/8,Dino Park E-7,289,402,100,17,319,466,134,normal
+952,23-12-23,0:07:00, Islamabad Model College for Boys  f/8,maizban tandoori G-11,300,490,100,7.7,358,522,151,normal
+953,23-12-23,0:09:00, Islamabad Model College for Boys  f/8,Mishi Maan Beauty Parlour e/11,390,576,110,9.5,425,617,181,normal
+954,23-12-23,0:15:00, Islamabad Model College for Boys  f/8,cheezious i-8,300,489,100,7.2,364,531,154,normal
+955,23-12-23,0:18:00, Islamabad Model College for Boys  f/8,Orient Restaurant  F10,200,321,80,4.7,261,386,108,normal
+956,23-12-23,0:20:00, Islamabad Model College for Boys  f/8,itwar bazar H-9,289,430,110,9.6,337,492,142,normal
+957,23-12-23,0:25:00, Islamabad Model College for Boys  f/8,CSD (Canteen Store Department e/10,230,389,90,3.2,298,436,124,normal
+958,23-12-23,0:28:00, Islamabad Model College for Boys  f/8,Backpackers Hostel Islamabad  e/11,330,500,120,8.2,379,552,161,normal
+959,23-12-23,0:30:00, Islamabad Model College for Boys  f/8,Aura Grande Event Complex e/11,321,480,110,8.3,364,530,154,normal
+960,23-12-23,0:36:00, Islamabad Model College for Boys  f/8,rawal king cricket i-11/1,489,720,189,13,531,765,228,normal
+961,23-12-23,0:39:00, Islamabad Model College for Boys  f/8,"Tehzeeb Bakers I-8 Markaz I 8 Markaz I-8, Islamabad",310,480,100,7.5,364,531,154,normal
+962,23-12-23,0:45:00, Islamabad Model College for Boys  f/8,"IJP Metro Bus Station I.J.P. Road, I 8/1 I-8, Islamabad",316,490,112,9,358,521,151,normal
+963,23-12-23,0:49:00, Islamabad Model College for Boys  f/8,chamman metro bus station G-9/4,187,289,80,3.2,222,330,90,normal
+964,23-12-23,0:51:00, Islamabad Model College for Boys  f/8,Orient Restaurant  F10,210,323,80,4.7,261,386,108,normal
+965,23-12-23,0:59:00, Islamabad Model College for Boys  f/8,italian oven f-10,215,328,90,4.8,261,385,108,normal
+966,23-12-23,1:01:00, Islamabad Model College for Boys  f/8,Butt Karahi F-10,217,321,80,5.1,252,373,104,normal
+967,23-12-23,1:05:00, Islamabad Model College for Boys  f/8,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),234,367,80,4.8,270,398,112,normal
+968,23-12-23,1:10:00, Islamabad Model College for Boys  f/8,cheezious i-8,321,470,121,7.2,364,531,154,normal
+969,23-12-23,1:12:00, Islamabad Model College for Boys  f/8,centaurus mall f/8,154,243,70,1.4,189,283,77,normal
+970,23-12-23,1:16:00, Islamabad Model College for Boys  f/8,marryam girls hostel g/10,290,445,100,9.8,331,484,139,normal
+971,23-12-23,1:17:00, Islamabad Model College for Boys  f/8,new boys hostel i/14,632,860,250,20,686,984,297,normal
+972,23-12-23,1:19:00, Islamabad Model College for Boys  f/8,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",243,341,80,6.8,264,390,109,normal
+973,23-12-23,1:21:00, Islamabad Model College for Boys  f/8,new boys hostel i/14,656,954,265,20,686,984,297,normal
+974,23-12-23,1:23:00, Islamabad Model College for Boys  f/8,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",232,343,90,6.8,264,390,109,normal
+975,23-12-23,1:25:00, Islamabad Model College for Boys  f/8,"Rumi Hostel H-12, Islamabad",480,704,167,16,513,740,220,normal
+976,23-12-23,1:28:00, Islamabad Model College for Boys  f/8,Orient Restaurant  F10,232,345,90,4.7,261,386,108,normal
+977,23-12-23,1:30:00, Islamabad Model College for Boys  f/8,italian oven f-10,220,340,90,4.8,261,385,108,normal
+978,23-12-23,1:31:00, Islamabad Model College for Boys  f/8,Butt Karahi F-10,234,360,90,5.1,252,373,104,normal
+979,23-12-23,1:33:00, Islamabad Model College for Boys  f/8,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),245,356,95,4.8,270,398,112,normal
+980,23-12-23,1:35:00, Islamabad Model College for Boys  f/8,Kashmir Residency Boys Hostel e/11,400,580,160,9.5,425,617,181,normal
+981,23-12-23,1:37:00, Islamabad Model College for Boys  f/8,"Quetta Darbar Cafe Street 85, G-13/1 G 13/1 G-13, Islamabad",520,780,210,16,561,808,242,normal
+982,23-12-23,1:38:00, Islamabad Model College for Boys  f/8,G-11 sunday bazar,300,450,110,9.6,337,492,142,normal
+983,23-12-23,1:40:00, Islamabad Model College for Boys  f/8,centaurus mall f/8,150,230,70,1.4,189,283,77,normal
+984,23-12-23,1:41:00, Islamabad Model College for Boys  f/8,marryam girls hostel g/10,300,420,100,9.8,331,484,139,normal
+985,23-12-23,1:42:00, Islamabad Model College for Boys  f/8,new boys hostel i/14,631,965,245,20,686,984,297,normal
+986,23-12-23,1:44:00, Islamabad Model College for Boys  f/8,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",243,360,90,6.8,264,390,109,normal
+987,23-12-23,1:45:00, Islamabad Model College for Boys  f/8,air uiversity e/8,190,300,75,4.4,231,343,95,normal
+988,23-12-23,1:47:00, Islamabad Model College for Boys  f/8,"IJP Metro Bus Station I.J.P. Road, I 8/1 I-8, Islamabad",290,500,110,9,358,521,151,normal
+989,23-12-23,1:48:00, Islamabad Model College for Boys  f/8,Orient Restaurant  F10,223,324,90,4.7,261,386,108,normal
+990,23-12-23,1:49:00, Islamabad Model College for Boys  f/8,italian oven f-10,225,334,90,4.8,261,385,108,normal
+991,23-12-23,1:50:00, Islamabad Model College for Boys  f/8,"PIMS Metro Bus Station Jinnah Avenue, G 8/3 G-8, Islamabad",180,290,80,2.4,222,330,90,normal
+992,23-12-23,1:51:00, Islamabad Model College for Boys  f/8,Suki Sushi Japanese & Korean Restaurant (F10-Markaz),226,360,100,4.8,270,398,112,normal
+993,23-12-23,1:52:00, Islamabad Model College for Boys  f/8,"Rumi Hostel H-12, Islamabad",480,700,197,16,513,740,220,normal
+994,23-12-23,1:53:00, Islamabad Model College for Boys  f/8,G-11 sunday bazar,300,445,112,9.6,337,492,142,normal
+995,23-12-23,1:54:00, Islamabad Model College for Boys  f/8,Maryam Girls Hostel i-14/3,632,945,223,20,670,962,290,normal
+996,23-12-23,1:55:00, Islamabad Model College for Boys  f/8,new palace guest house g/9,232,345,90,6.9,267,394,111,normal
+997,23-12-23,1:57:00, Islamabad Model College for Boys  f/8,baiT UL MOHSINAAT GIRLS HOSTEL ISLAMABAD i-9/1,334,543,150,8.5,389,565,165,normal
+998,23-12-23,1:58:00, Islamabad Model College for Boys  f/8,CSD (Canteen Store Department e/10,284,400,91,3.2,298,436,124,normal
+999,23-12-23,1:59:00, Islamabad Model College for Boys  f/8,"Luxury Inn Guest House Street Number 32, G-9/1 G 9/1 G-9, Islamabad",308,367,104,6.8,264,390,109,normal
+1000,23-12-23,2:00:00, Islamabad Model College for Boys  f/8,AL VEER GUEST HOUSE & APARTMENTS e/11,400,590,132,9.5,431,625,184,normal
